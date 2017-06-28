@@ -1,0 +1,1952 @@
+# The data on UFO sightings was scraped from the monthly 
+# UFO sightings reported to the National UFO Reporting Center 
+# http://www.nuforc.org/webreports
+# date range: 2017-01-01 to 2017-12-31
+# NOTE: Data is largely unsanitized!
+#
+dtime,city,state,ufoshape
+2017-06-15 10:03:00,Denver,CO,Formation
+2017-06-14 22:01:00,Beograd (Serbia),,Circle
+2017-06-14 21:46:00,St. Louis,MO,Light
+2017-06-14 20:45:00,Corinth,MS,Unknown
+2017-06-14 11:00:00,Durham,NC,Disk
+2017-06-14 11:00:00,Leander,TX,Sphere
+2017-06-14 02:00:00,Waynesville,MO,Formation
+2017-06-14 00:15:00,Los Angeles,CA,Fireball
+2017-06-13 22:30:00,Colorado Springs,CO,Light
+2017-06-13 21:19:00,Grovetown,GA,Triangle
+2017-06-13 21:00:00,Murrieta,CA,Sphere
+2017-06-13 10:52:00,Bardstown,KY,Triangle
+2017-06-12 22:30:00,Springfield,MO,Light
+2017-06-12 22:10:00,Ukiah,CA,Fireball
+2017-06-12 21:50:00,Buckeye,AZ,Other
+2017-06-12 21:30:00,Yuma,AZ,Circle
+2017-06-12 21:10:00,Siliguri (India),,Light
+2017-06-12 21:00:00,Donora,PA,Light
+2017-06-12 20:45:00,Pocono Lake,PA,Oval
+2017-06-12 12:00:00,Minnetonka,MN,Light
+2017-06-12 03:45:00,Fortuna,AZ,Unknown
+2017-06-12 00:30:00,Redwater (Canada),AB,Other
+2017-06-11 00:00:00,Baltimore,MD,Sphere
+2017-06-11 23:14:00,Lantana,FL,Oval
+2017-06-11 23:00:00,San Leandro,CA,Light
+2017-06-11 22:56:00,Rutledge,TN,Disk
+2017-06-11 22:45:00,Westminster,MD,Formation
+2017-06-11 22:44:00,Rutledge,TN,Other
+2017-06-11 22:30:00,Cave Creek,AZ,Disk
+2017-06-11 22:00:00,Massillon,OH,Light
+2017-06-11 21:25:00,Palmyra,PA,Circle
+2017-06-11 19:35:00,Mount Laurel,NJ,Light
+2017-06-11 14:30:00,Wilmington,DE,Fireball
+2017-06-11 13:30:00,Jacksonville,FL,Sphere
+2017-06-11 11:15:00,Lapeer,MI,Light
+2017-06-11 10:40:00,Virginia Beach,VA,Rectangle
+2017-06-11 04:00:00,Dodge City,KS,Changing
+2017-06-10 23:29:00,Vilnius (Lithuania),,Other
+2017-06-10 23:00:00,Goffstown,NH,Unknown
+2017-06-10 23:00:00,Roseville,OH,Circle
+2017-06-10 22:09:00,Shelbyville,IN,Light
+2017-06-10 22:00:00,Yakima,WA,Fireball
+2017-06-10 21:50:00,Reading,PA,Unknown
+2017-06-10 20:50:00,Alexandria,VA,Sphere
+2017-06-10 20:45:00,Middletown,CT,Unknown
+2017-06-10 20:32:00,Troy,VA,Circle
+2017-06-10 15:50:00,Boston,MA,Fireball
+2017-06-10 13:00:00,Manalapan,NJ,Sphere
+2017-06-10 11:00:00,Croton,IA,Light
+2017-06-10 10:15:00,Anderson,CA,Oval
+2017-06-10 07:34:00,Long Beach,CA,
+2017-06-10 04:20:00,Half Moon Bay,CA,Fireball
+2017-06-10 03:15:00,Chester,PA,Disk
+2017-06-10 03:00:00,Independence,MO,Changing
+2017-06-10 01:00:00,Nanaimo (Canada),BC,Light
+2017-06-10 00:00:00,Rabbit Valley,CO,Light
+2017-06-09 22:35:00,Hebron,KY,Light
+2017-06-09 22:30:00,Cherokee,NC,Circle
+2017-06-09 22:30:00,Pleasanton,CA,Triangle
+2017-06-09 22:20:00,Eau Claire,WI,Fireball
+2017-06-09 22:00:00,Morehead,KY,Light
+2017-06-09 22:00:00,Boulder,CO,Circle
+2017-06-09 21:50:00,Atoka,TN,
+2017-06-09 17:29:00,Anaheim,CA,Sphere
+2017-06-09 16:36:00,Salem,OR,Circle
+2017-06-09 14:00:00,Round Lake,IL,Oval
+2017-06-09 05:00:00,Ballinger,TX,Circle
+2017-06-09 03:55:00,Derry,PA,Light
+2017-06-09 01:30:00,New Cumberland,WV,Triangle
+2017-06-09 00:30:00,Allen Park,MI,Sphere
+2017-06-08 23:41:00,Peoria,IL,Oval
+2017-06-08 23:00:00,Bremerton,WA,Formation
+2017-06-08 22:03:00,Lock Haven,PA,Light
+2017-06-08 22:00:00,Prescott Valley,AZ,Formation
+2017-06-08 22:00:00,Marietta,GA,Light
+2017-06-08 21:50:00,Kalamazoo,MI,Unknown
+2017-06-08 21:45:00,Welton,AZ,Chevron
+2017-06-08 21:45:00,Paulden,AZ,Light
+2017-06-08 21:30:00,Troy,VT,Unknown
+2017-06-08 21:00:00,Beloit,WI,Formation
+2017-06-08 21:00:00,Portsmouth,VA,Circle
+2017-06-08 12:00:00,Brushton,NY,Disk
+2017-06-08 09:28:00,Bessemer City,NC,Circle
+2017-06-08 04:00:00,Baltimore,MD,Light
+2017-06-08 00:00:00,Cushing,TX,Diamond
+2017-06-07 23:01:00,New Philadelphia,OH,Triangle
+2017-06-07 22:48:00,Bellmore,NY,Light
+2017-06-07 21:15:00,Houston,TX,Triangle
+2017-06-07 19:00:00,Lynnwood,WA,Circle
+2017-06-07 16:45:00,Parker/Aurora,CO,Formation
+2017-06-07 15:00:00,Manteno,IL,Disk
+2017-06-07 13:30:00,Huntington,NY,Diamond
+2017-06-06 23:45:00,Fairfield,OH,Circle
+2017-06-06 22:30:00,Seattle,WA,Sphere
+2017-06-06 22:30:00,Missoula,MT,Light
+2017-06-06 22:00:00,Reno,NV,Circle
+2017-06-06 22:00:00,Annapolis,MD,Other
+2017-06-06 20:15:00,Borrego Springs,CA,Light
+2017-06-06 20:15:00,Kings Beach,CA,Oval
+2017-06-06 19:30:00,Reno,NV,Sphere
+2017-06-06 19:00:00,Norfolk,VA,Circle
+2017-06-06 19:00:00,Reno,NV,Oval
+2017-06-06 18:30:00,Seattle,WA,Rectangle
+2017-06-06 15:37:00,Plaistow,NH,Triangle
+2017-06-06 00:45:00,Virginia Beach,VA,Triangle
+2017-06-05 21:29:00,Crystal Lake,IL,Other
+2017-06-05 20:00:00,Tucson,AZ,Light
+2017-06-05 16:45:00,Las Vegas,NV,Teardrop
+2017-06-05 00:00:00,Cave Creek,AZ,Circle
+2017-06-04 22:00:00,West Des Moines,IA,Disk
+2017-06-04 20:21:00,Spirit Lake,ID,Circle
+2017-06-04 18:30:00,Silver Spring,MD,Cigar
+2017-06-04 08:30:00,Little Neck,NY,Unknown
+2017-06-04 02:50:00,Hamilton,MT,Light
+2017-06-04 01:43:00,Omaha,NE,Unknown
+2017-06-04 00:30:00,Lake View,IA,Sphere
+2017-06-04 00:00:00,Unknown location (military video),,
+2017-06-03 23:30:00,Balliettsville,PA,Circle
+2017-06-03 23:30:00,Amboy,IN,Light
+2017-06-03 23:30:00,Durham,NC,Circle
+2017-06-03 23:30:00,Benson,AZ,Light
+2017-06-03 23:20:00,Elk River,MN,Fireball
+2017-06-03 23:10:00,Montoursville,PA,Light
+2017-06-03 22:55:00,Nashville,TN,Circle
+2017-06-03 17:02:00,Fullerton,CA,Circle
+2017-06-03 12:55:00,Carbondale,IN,Oval
+2017-06-03 12:30:00,Janesville,WI,
+2017-06-03 08:30:00,Brighton,MI,Oval
+2017-06-03 08:30:00,South Myrtle Beach,SC,Disk
+2017-06-03 03:55:00,Nashville,IL,Cylinder
+2017-06-03 01:00:00,Pearisburg,VA,Formation
+2017-06-03 00:30:00,Honeyville,UT,Unknown
+2017-06-02 22:45:00,Boardman,OH,Diamond
+2017-06-02 22:30:00,Grand Junction,CO,Unknown
+2017-06-02 22:00:00,Adrian,MI,Light
+2017-06-02 21:20:00,Myrtle Beach,SC,Fireball
+2017-06-02 21:15:00,Lake Havasu City,AZ,Egg
+2017-06-02 20:00:00,Bethulie (South Africa),,Circle
+2017-06-02 15:10:00,Roanoke,VA,Cylinder
+2017-06-02 05:26:00,Versailles,KY,Disk
+2017-06-02 04:10:00,Edison,NJ,Diamond
+2017-06-02 03:18:00,Iloilo (Philippines),,Diamond
+2017-06-01 21:25:00,Rowley,MA,Fireball
+2017-06-01 20:00:00,Jacksonville,FL,Formation
+2017-06-01 19:35:00,Perryville,MD,Unknown
+2017-06-01 13:18:00,Columbus,OH,
+2017-06-01 10:35:00,Calais (France),,Flash
+2017-06-01 03:35:00,Mountain Top,PA,Light
+2017-05-31 23:30:00,Long Beach,MS,Oval
+2017-05-31 22:00:00,Oxford,MS,Other
+2017-05-31 21:20:00,Saint Peter,MN,Light
+2017-05-31 18:52:00,Slingerlands,NY,Triangle
+2017-05-31 10:45:00,Arden Hills,MN,Other
+2017-05-31 10:00:00,Colorado Springs,CO,Unknown
+2017-05-31 05:00:00,Las Vegas,NV,Rectangle
+2017-05-31 04:45:00,Oak Grove,MN,Circle
+2017-05-31 04:00:00,Norman,OK,Sphere
+2017-05-31 01:14:00,Wahpeton,ND,Fireball
+2017-05-31 00:00:00,Sacramento,CA,Light
+2017-05-30 23:25:00,Provo,UT,Light
+2017-05-30 22:20:00,Las Vegas,NV,Light
+2017-05-30 21:15:00,Anniston,AL,Triangle
+2017-05-30 21:15:00,Gila Bend,AZ,Other
+2017-05-30 12:20:00,Riverside,CA,Other
+2017-05-30 04:25:00,Macedon,NY,Circle
+2017-05-30 01:45:00,Birch Tree,MO,Light
+2017-05-29 23:00:00,Buffalo,NY,Fireball
+2017-05-29 21:00:00,Sugar Hill,GA,Triangle
+2017-05-29 21:00:00,Phoenix,AZ,Oval
+2017-05-29 20:45:00,Colorado Springs,CO,Cigar
+2017-05-29 16:45:00,Topeka,KS,Diamond
+2017-05-29 16:00:00,Monroe,MI,Sphere
+2017-05-29 05:15:00,Kewanee,IL,Changing
+2017-05-29 03:30:00,Northvale,NJ,Circle
+2017-05-28 22:50:00,Wonder Lake,IL,Light
+2017-05-28 22:30:00,Seattle,WA,Circle
+2017-05-28 21:50:00,Oak Lawn,IL,Light
+2017-05-28 21:00:00,Auburn,MA,Unknown
+2017-05-28 20:56:00,Eminence,MO,Circle
+2017-05-28 20:00:00,El Mirage,AZ,Light
+2017-05-28 18:53:00,Malibu,CA,Sphere
+2017-05-28 16:15:00,Camas,WA,Sphere
+2017-05-28 10:30:00,Sutherlin,OR,Rectangle
+2017-05-28 09:00:00,Delano,CA,Fireball
+2017-05-28 05:00:00,St. Ann,MO,Oval
+2017-05-28 00:53:00,Carlsbad,CA,Fireball
+2017-05-27 23:00:00,Newark,NJ,Circle
+2017-05-27 23:00:00,Marine park Bklyn,NY,Light
+2017-05-27 22:30:00,Keego Harbor,MI,Triangle
+2017-05-27 22:00:00,Clarence,NY,Changing
+2017-05-27 21:15:00,San Diego,CA,Light
+2017-05-27 21:04:00,Oakland,CA,Circle
+2017-05-27 21:04:00,Oakland,CA,Circle
+2017-05-27 21:00:00,Spring,TX,Circle
+2017-05-27 20:00:00,Sierra Vista,AZ,Circle
+2017-05-27 20:00:00,Corona,CA,Light
+2017-05-27 14:00:00,South Easton,MA,Oval
+2017-05-27 12:00:00,Dolton,IL,
+2017-05-27 10:56:00,Randolph,NJ,Circle
+2017-05-27 10:30:00,Seattle,WA,Unknown
+2017-05-27 09:00:00,Marysville,MI,Circle
+2017-05-27 03:35:00,Venice,FL,Triangle
+2017-05-27 02:45:00,Delmont,NJ,Circle
+2017-05-27 02:00:00,San Antonio,TX,Circle
+2017-05-27 00:35:00,Orland Park,IL,Light
+2017-05-26 23:00:00,Sooke (Canada),BC,Circle
+2017-05-26 23:00:00,San Clemente,CA,Circle
+2017-05-26 03:00:00,Salt Lake City,UT,Light
+2017-05-25 22:33:00,Shakopee,MN,Circle
+2017-05-25 22:30:00,Floresville,TX,Fireball
+2017-05-25 22:30:00,Victor,ID,Light
+2017-05-25 19:15:00,Friendswood,TX,Unknown
+2017-05-25 18:00:00,Camden,NJ,Rectangle
+2017-05-25 03:00:00,West Pasco,WA,Cylinder
+2017-05-25 02:00:00,Portland,OR,Unknown
+2017-05-25 02:00:00,Gujranwala (Pakistan),,
+2017-05-24 23:15:00,Pace,FL,Disk
+2017-05-24 22:30:00,Fort Collins,CO,
+2017-05-24 22:30:00,Lincoln,NE,Circle
+2017-05-24 21:40:00,"Beccles, Suffolk. (UK/England)",,Sphere
+2017-05-24 21:00:00,Pine Bluff,AR,Light
+2017-05-24 07:12:00,Bryan,TX,Sphere
+2017-05-24 01:30:00,Fontana,CA,Light
+2017-05-24 01:03:00,Brewster,WA,Circle
+2017-05-24 00:30:00,Redondo Beach,CA,Sphere
+2017-05-23 23:27:00,Northfield,NH,Changing
+2017-05-23 22:50:00,Crosshill (Ayrshire)(UK/Scotland),,Circle
+2017-05-23 22:00:00,Elk Grove,CA,Unknown
+2017-05-23 20:50:00,Webster,NY,Fireball
+2017-05-23 20:00:00,Greece,NY,Oval
+2017-05-23 19:30:00,Globe,AZ,Unknown
+2017-05-23 04:45:00,North Salt Lake,UT,Light
+2017-05-22 23:18:00,Golden,CO,Light
+2017-05-22 22:45:00,Kalama,WA,Light
+2017-05-22 17:30:00,Lovington,NM,Other
+2017-05-22 11:30:00,Castro Valley,CA,Oval
+2017-05-22 09:45:00,St. Louis County,MO,Unknown
+2017-05-22 04:10:00,Sumner,WA,Light
+2017-05-22 04:00:00,Bardwell,KY,Circle
+2017-05-22 04:00:00,Lincoln City,OR,Oval
+2017-05-22 01:30:00,Los Gatos Mountains,CA,Light
+2017-05-22 00:08:00,Madera,CA,Light
+2017-05-21 23:48:00,Wilmington,IL,Flash
+2017-05-21 23:02:00,Delaware,OH,Light
+2017-05-21 22:42:00,Calgary (Canada),AB,Circle
+2017-05-21 22:30:00,Landers,CA,Diamond
+2017-05-21 22:30:00,Landers,CA,Light
+2017-05-21 22:00:00,Landers (Yucca Valley),CA,Diamond
+2017-05-21 22:00:00,Belen,NM,Other
+2017-05-21 22:00:00,Landers,CA,Diamond
+2017-05-21 21:45:00,Landers,CA,Sphere
+2017-05-21 21:41:00,Sacramento,CA,Rectangle
+2017-05-21 19:44:00,Vancouver,WA,Diamond
+2017-05-21 13:00:00,Jonesborough,TN,Cigar
+2017-05-21 13:00:00,Long Beach,CA,Light
+2017-05-21 00:00:00,Spanaway,WA,Circle
+2017-05-20 22:30:00,Silver Lake,KS,Triangle
+2017-05-20 22:00:00,Pleasant Hill,CA,Cylinder
+2017-05-20 21:02:00,Mechanicsville,VA,Fireball
+2017-05-20 21:00:00,Gallup,NM,Sphere
+2017-05-20 21:00:00,Las Cruces,NM,Cylinder
+2017-05-20 19:00:00,Long Beach,CA,Light
+2017-05-20 13:40:00,Goleta,CA,Other
+2017-05-20 12:15:00,San Bernardino,CA,Sphere
+2017-05-20 12:00:00,Santa Fe,NM,Other
+2017-05-20 10:39:00,Philadelphia,PA,Circle
+2017-05-20 08:30:00,Bozra,CT,Disk
+2017-05-19 21:20:00,New Windsor,NY,Circle
+2017-05-19 21:17:00,Wilkes-Barre,PA,Fireball
+2017-05-19 21:17:00,Wilkes-Barre,PA,Fireball
+2017-05-19 17:49:00,Quincy,WA,Triangle
+2017-05-19 17:00:00,Everett,WA,Triangle
+2017-05-19 10:49:00,Superior,AZ,Circle
+2017-05-19 10:36:00,Hillsboro,OR,Other
+2017-05-18 22:00:00,"Weare ,",NH,Chevron
+2017-05-18 21:18:00,Old Bridge,NJ,Disk
+2017-05-18 21:00:00,Conway,SC,Diamond
+2017-05-18 21:00:00,Lubbock,TX,Light
+2017-05-18 20:55:00,san jose,CA,Disk
+2017-05-18 20:50:00,Paragould,AR,Cylinder
+2017-05-18 20:45:00,Santa Rosa,CA,Light
+2017-05-18 15:25:00,North Charleston,SC,Unknown
+2017-05-18 15:15:00,Bowie,MD,Light
+2017-05-18 12:21:00,Spokane Valley,WA,Triangle
+2017-05-18 06:00:00,Wilmington,DE,Unknown
+2017-05-18 00:00:00,Claremore,OK,Other
+2017-05-18 00:00:00,Des Plaines,IL,Unknown
+2017-05-17 22:00:00,Lutton (UK/England),,Light
+2017-05-17 22:00:00,Edwardsville,IL,Unknown
+2017-05-17 21:30:00,Tucson,AZ,Circle
+2017-05-17 21:00:00,New Milford,CT,Sphere
+2017-05-17 19:00:00,Wilmington,NC,Sphere
+2017-05-17 15:15:00,White Marsh,MD,Rectangle
+2017-05-17 13:24:00,Hoboken,NJ,Oval
+2017-05-17 12:00:00,Kiev (Ukraine),,Sphere
+2017-05-17 10:55:00,Milton,VT,Light
+2017-05-16 23:44:00,Pownal,ME,Light
+2017-05-16 22:40:00,Salisbury,NC,Light
+2017-05-16 20:00:00,Ashton,WV,Oval
+2017-05-16 09:50:00,Hamilton,AL,Triangle
+2017-05-16 03:00:00,Anchorage,AK,Cylinder
+2017-05-16 02:00:00,Roseville,CA,Formation
+2017-05-16 00:04:00,Seatac,WA,Triangle
+2017-05-15 23:00:00,North Myrtle Beach,SC,Sphere
+2017-05-15 23:00:00,Lebanon,PA,Formation
+2017-05-15 22:30:00,Garden City,SC,Sphere
+2017-05-15 22:30:00,Pittsburgh,PA,Circle
+2017-05-15 22:30:00,Myrtle Beach,SC,Light
+2017-05-15 22:15:00,Garden City Beach,SC,Changing
+2017-05-15 22:03:00,Myrtle Beach,SC,Circle
+2017-05-15 22:00:00,North Myrtle Beach,SC,Sphere
+2017-05-15 22:00:00,Myrtle Beach,SC,Circle
+2017-05-15 22:00:00,Sandown,NH,Unknown
+2017-05-15 22:00:00,Springfield,MA,Light
+2017-05-15 22:00:00,Myrtle Beach,SC,Circle
+2017-05-15 21:43:00,Ft. Collins,CO,Cigar
+2017-05-15 20:45:00,San Jose,CA,Other
+2017-05-15 19:10:00,Cebu (Philippines),,Circle
+2017-05-15 18:40:00,Oak Lawn,IL,Changing
+2017-05-15 14:16:00,North Las Vegas,NV,Teardrop
+2017-05-15 13:00:00,Breda (Netherlands),,Other
+2017-05-15 11:30:00,Fort Loramie,OH,Rectangle
+2017-05-15 09:35:00,Cookeville,TN,Unknown
+2017-05-15 09:15:00,Minster,OH,Sphere
+2017-05-15 05:50:00,St. Augustine,FL,Disk
+2017-05-15 04:00:00,Vincennes,IN,Circle
+2017-05-15 02:30:00,Hudson,NY,Triangle
+2017-05-15 01:20:00,Long Beach,CA,Fireball
+2017-05-15 00:20:00,Rockledge,PA,Circle
+2017-05-15 00:20:00,Rockledge,PA,Circle
+2017-05-15 00:00:00,Cypress,TX,Light
+2017-05-14 23:00:00,Des Moines,IA,Circle
+2017-05-14 22:25:00,Lansing,MI,Other
+2017-05-14 22:20:00,Des Plaines,IL,Fireball
+2017-05-14 22:00:00,Clinton,CT,Circle
+2017-05-14 21:43:00,Clinton,CT,Circle
+2017-05-14 21:30:00,St. Petersburg,FL,Triangle
+2017-05-14 20:47:00,Upper Hutt,,Changing
+2017-05-14 16:30:00,Toledo,OH,Other
+2017-05-14 16:00:00,Norfolk,VA,Disk
+2017-05-14 15:30:00,Howell,NJ,Disk
+2017-05-14 15:30:00,Belpre,OH,Other
+2017-05-14 13:30:00,Covington,GA,Egg
+2017-05-14 08:23:00,Chicago,IL,Circle
+2017-05-14 05:30:00,San Antonio,TX,Light
+2017-05-14 04:00:00,Tucson,AZ,Light
+2017-05-14 03:58:00,Los Angeles,CA,Circle
+2017-05-14 03:05:00,Evans,CO,Triangle
+2017-05-14 00:10:00,Williamsport,PA,Triangle
+2017-05-13 23:00:00,Centerville,OH,Light
+2017-05-13 22:49:00,Bellingham,WA,Light
+2017-05-13 22:00:00,Coolridge,WV,Fireball
+2017-05-13 21:20:00,Lethbridge (Canada),AB,Triangle
+2017-05-13 21:05:00,Fulton,NY,Fireball
+2017-05-13 20:40:00,Gallipolis,OH,Circle
+2017-05-13 19:00:00,Breckenridge,CO,Flash
+2017-05-13 14:00:00,Palm Beach,FL,Other
+2017-05-13 13:43:00,Limon,CO,Light
+2017-05-13 11:30:00,Katy,TX,Cylinder
+2017-05-13 10:30:00,Millington,TN,Cylinder
+2017-05-13 04:59:00,Lake Worth,FL,Circle
+2017-05-13 04:30:00,Richmond,CA,Changing
+2017-05-13 04:20:00,Kansas City,KS,Light
+2017-05-13 03:45:00,Tucson/Sierra Vista (Interstate 10),AZ,Light
+2017-05-13 02:30:00,Lincoln,NE,Light
+2017-05-12 23:10:00,Statesville,NC,Fireball
+2017-05-12 23:00:00,South Yorkshire (UK/England),,Light
+2017-05-12 22:45:00,Pullman,WA,Fireball
+2017-05-12 21:00:00,Deltona,FL,Disk
+2017-05-12 20:30:00,West Lakeland,MN,Formation
+2017-05-12 20:30:00,Mesa,AZ,Other
+2017-05-12 20:05:00,Surprise,AZ,Fireball
+2017-05-12 18:00:00,Denver,CO,Rectangle
+2017-05-12 18:00:00,Denver,CO,Rectangle
+2017-05-12 14:30:00,"Washington, DC",DC,Circle
+2017-05-12 05:05:00,Salinas,CA,Light
+2017-05-12 00:40:00,Enid,OK,Cylinder
+2017-05-11 22:30:00,Zimmerman,MN,Circle
+2017-05-11 22:00:00,Apache Junction,AZ,Changing
+2017-05-11 21:00:00,Alamogordo,NM,Egg
+2017-05-11 14:00:00,Sioux Falls,SD,Changing
+2017-05-11 09:00:00,Provo,UT,Triangle
+2017-05-11 04:23:00,Denver,CO,Triangle
+2017-05-10 23:30:00,Joshua Tree,CA,Triangle
+2017-05-10 22:00:00,Stanford,WA,Circle
+2017-05-10 22:00:00,Everett,WA,Other
+2017-05-10 22:00:00,Charlottesville,VA,Circle
+2017-05-10 21:45:00,Philadelphia,PA,Oval
+2017-05-10 21:45:00,Ontario,OH,Unknown
+2017-05-10 21:00:00,((Location no revealed by witness)),CA,Light
+2017-05-10 21:00:00,Tempe,AZ,Circle
+2017-05-10 19:00:00,Canmore (Canada),AB,Chevron
+2017-05-10 17:23:00,Higginsville,NY,Circle
+2017-05-10 10:00:00,Canton,OH,Light
+2017-05-10 08:00:00,Atlantic City,NJ,Disk
+2017-05-10 05:35:00,Tampa,FL,Circle
+2017-05-10 05:15:00,Cypress,TX,Light
+2017-05-10 01:00:00,Memphis,TN,Teardrop
+2017-05-10 00:00:00,Abilene,TX,Light
+2017-05-09 23:30:00,Amanda,OH,Other
+2017-05-09 23:15:00,Ft. Olgethorpe,GA,Oval
+2017-05-09 23:00:00,Blackshear,GA,Fireball
+2017-05-09 22:45:00,West Covina,CA,Flash
+2017-05-09 22:00:00,Guilford,CT,Triangle
+2017-05-09 20:05:00,Cape Coral,FL,Cylinder
+2017-05-09 20:05:00,Cape Coral,FL,Cylinder
+2017-05-09 20:05:00,Cape Coral,FL,Cylinder
+2017-05-09 17:45:00,Brooklyn Park,MN,Cigar
+2017-05-09 03:45:00,Harrington,WA,Light
+2017-05-09 03:30:00,Auburn,AL,Circle
+2017-05-08 22:30:00,Auburn,MI,Disk
+2017-05-08 22:15:00,Northville,MI,Cigar
+2017-05-08 20:04:00,Cape Coral,FL,Cylinder
+2017-05-08 20:00:00,Atlanta,GA,Changing
+2017-05-08 16:30:00,Atlanta,GA,Sphere
+2017-05-08 13:00:00,Whitby (Canada),ON,Oval
+2017-05-08 10:30:00,Durham,NC,Circle
+2017-05-08 06:39:00,Ayia (Greece),,Disk
+2017-05-08 05:30:00,Clearwater/Palm Harbor,FL,Circle
+2017-05-08 05:15:00,Lake St. Louis,MO,Flash
+2017-05-08 05:00:00,Greenville,NY,Unknown
+2017-05-08 00:30:00,Wylie,TX,Light
+2017-05-07 21:08:00,Los Angeles,CA,Fireball
+2017-05-07 21:00:00,Marietta,GA,Sphere
+2017-05-07 20:03:00,Naples,FL,Cylinder
+2017-05-07 20:00:00,Montgomery,AL,Circle
+2017-05-07 19:30:00,Warrior,AL,Circle
+2017-05-07 19:00:00,District Heights,MD,Circle
+2017-05-07 13:00:00,Walton,IN,Cylinder
+2017-05-07 05:15:00,Comstock Park,MI,Formation
+2017-05-07 04:56:00,Baltimore,MD,Light
+2017-05-07 02:50:00,Tucson,AZ,Light
+2017-05-07 01:20:00,Vineland,NJ,Triangle
+2017-05-07 00:40:00,Port St. Lucie,FL,Light
+2017-05-06 21:41:00,Minneapolis,MN,Formation
+2017-05-06 21:15:00,Waxahachie,TX,Chevron
+2017-05-06 21:13:00,Hibbing,MN,Fireball
+2017-05-06 21:00:00,Southington,CT,Other
+2017-05-06 21:00:00,Bonnerdale/Crossroads,AR,Unknown
+2017-05-06 20:58:00,Old Bridge,NJ,Changing
+2017-05-06 20:45:00,Phoenix,AZ,Triangle
+2017-05-06 05:00:00,Camp McGregor,NM,Light
+2017-05-06 05:00:00,San Francisco,CA,Fireball
+2017-05-06 04:50:00,Mojave (Canada),BC,Light
+2017-05-05 20:00:00,Corona,CA,Other
+2017-05-05 11:30:00,Austin,TX,Disk
+2017-05-05 04:30:00,Surprise,AZ,Circle
+2017-05-05 03:00:00,El Mirage,AZ,Circle
+2017-05-04 23:34:00,York,NE,Fireball
+2017-05-04 23:25:00,Onchiota,NY,Unknown
+2017-05-04 23:07:00,Elkhart Lake,WI,Unknown
+2017-05-04 23:00:00,Lawrence,KS,Light
+2017-05-04 22:00:00,Edgewood,NM,Unknown
+2017-05-04 21:27:00,Phoenix,AZ,Circle
+2017-05-04 20:25:00,Houston,TX,Other
+2017-05-04 18:30:00,Phoenix,AZ,Teardrop
+2017-05-04 15:00:00,Beaverton,OR,Disk
+2017-05-04 04:50:00,Taft,CA,Changing
+2017-05-04 00:00:00,Goose Creek,SC,Circle
+2017-05-04 00:00:00,Savannah,GA,Sphere
+2017-05-03 00:00:00,Lake Los Angeles,CA,Oval
+2017-05-03 23:15:00,West Union,OH,Circle
+2017-05-03 21:00:00,Portland,OR,Circle
+2017-05-03 15:00:00,Loveland,CO,Triangle
+2017-05-03 11:15:00,Barneveld,WI,Triangle
+2017-05-03 08:50:00,Phoenix,AZ,Other
+2017-05-03 08:00:00,New York City (Brooklyn),NY,Rectangle
+2017-05-03 02:04:00,Arvada,CO,Triangle
+2017-05-03 01:00:00,Norman,OK,Light
+2017-05-02 22:15:00,Albuquerque,NM,Sphere
+2017-05-02 21:50:00,Albuquerque,NM,Sphere
+2017-05-02 21:00:00,Kennesaw,GA,Light
+2017-05-02 17:10:00,Albuquerque,NM,Oval
+2017-05-02 13:15:00,Canoga Park,CA,Sphere
+2017-05-02 13:00:00,Edmonton (Canada),AB,Light
+2017-05-02 05:00:00,Las Vegas,NV,Unknown
+2017-05-02 00:13:00,Houma,LA,Disk
+2017-05-01 23:30:00,Taylorsville,UT,Circle
+2017-05-01 21:15:00,Marana,AZ,Circle
+2017-05-01 21:13:00,Scottsdale,AZ,Unknown
+2017-05-01 19:00:00,Lawrenceville,NJ,Light
+2017-05-01 15:30:00,Fullerton,CA,Diamond
+2017-05-01 05:00:00,Tewksbury,MA,
+2017-05-01 03:23:00,Fullerton,CA,Diamond
+2017-05-01 01:50:00,Chugiak,AK,Rectangle
+2017-05-01 00:15:00,Seminary,LA,Oval
+2017-05-01 00:00:00,Taylor,PA,Other
+2017-04-30 22:00:00,Peyton,CO,Formation
+2017-04-30 22:00:00,Spring,TX,Circle
+2017-04-30 21:00:00,Ventura,CA,Other
+2017-04-30 21:00:00,Eatonton,GA,Light
+2017-04-30 20:30:00,Belleville,IL,Triangle
+2017-04-30 18:00:00,Pebble Beach,CA,Sphere
+2017-04-30 14:00:00,Everett,WA,
+2017-04-30 05:00:00,Del Valle,TX,Circle
+2017-04-30 03:33:00,Nashville,TN,
+2017-04-30 02:00:00,Oxford (UK/England),,Circle
+2017-04-30 01:45:00,Mansfield,MA,Light
+2017-04-30 01:23:00,Wentzville,MO,Flash
+2017-04-29 23:40:00,Eden Prairie,MN,Circle
+2017-04-29 23:20:00,Minneapolis,MN,Circle
+2017-04-29 23:00:00,Newport,MI,Light
+2017-04-29 23:00:00,Athabasca (Canada),AB,Disk
+2017-04-29 22:35:00,Edina,MN,Circle
+2017-04-29 22:00:00,Medford,OR,Changing
+2017-04-29 22:00:00,Eden Prairie,MN,Formation
+2017-04-29 21:30:00,Sacramento,CA,Circle
+2017-04-29 21:00:00,Chambersburg,PA,Disk
+2017-04-29 20:53:00,Las Vegas,NV,Formation
+2017-04-29 20:30:00,Woods Hole,MA,Chevron
+2017-04-29 20:10:00,Coconut Creek,FL,Light
+2017-04-29 19:05:00,Fords,NJ,Other
+2017-04-29 15:00:00,Anniston,AL,Cylinder
+2017-04-29 11:30:00,Excelsior,MN,Circle
+2017-04-29 03:00:00,Kealakekua,HI,Light
+2017-04-29 00:00:00,Sturgeon Bay,WI,Light
+2017-04-28 22:00:00,Demotte,IN,Other
+2017-04-28 21:00:00,Burl County,NJ,Unknown
+2017-04-28 21:00:00,Olympia,WA,Light
+2017-04-28 20:18:00,Franklin Park,IL,Unknown
+2017-04-28 10:30:00,New Brunswick,NJ,Disk
+2017-04-28 05:45:00,Germantown,MD,Circle
+2017-04-28 01:00:00,Garden City,ID,Fireball
+2017-04-28 01:00:00,Temple hills,MD,Circle
+2017-04-27 22:15:00,Sheffield (UK/England),,Other
+2017-04-27 22:00:00,West Bend,WI,Unknown
+2017-04-27 21:00:00,Colorado Springs,CO,Circle
+2017-04-27 20:45:00,Miami,FL,Light
+2017-04-27 19:30:00,West Kelowna (Canada),BC,Other
+2017-04-27 12:00:00,Armadale (Australia),,Fireball
+2017-04-27 11:00:00,Tulsa,OK,Other
+2017-04-27 10:51:00,Tacoma,WA,Other
+2017-04-27 07:40:00,Gambrills,MD,Cylinder
+2017-04-27 05:20:00,Albuquerque,NM,Changing
+2017-04-27 01:00:00,Mossyrock,WA,Unknown
+2017-04-26 23:20:00,Everett,WA,Circle
+2017-04-26 23:00:00,Orangeville (Canada),ON,Unknown
+2017-04-26 22:29:00,Bradenton,FL,Light
+2017-04-26 22:00:00,Beattyville,KY,Circle
+2017-04-26 21:30:00,Dumaguete (Philippines),,Chevron
+2017-04-26 21:00:00,Rochester,NY,Light
+2017-04-26 20:00:00,Indian Reservation on way to Barona Casino,CA,Other
+2017-04-26 14:00:00,North Charleston,SC,Other
+2017-04-26 09:45:00,Visalia,CA,Circle
+2017-04-26 04:07:00,Vienna,OH,Light
+2017-04-26 02:00:00,Cape Coral,FL,Other
+2017-04-26 00:27:00,Pinellas Park,FL,
+2017-04-26 00:20:00,Miami,FL,Other
+2017-04-26 00:00:00,Largo,FL,Changing
+2017-04-26 00:00:00,Santa Barbara,CA,Fireball
+2017-04-25 23:53:00,Plant City,FL,Cylinder
+2017-04-25 23:53:00,Seminole,FL,Unknown
+2017-04-25 23:52:00,West Palm Beach,FL,Fireball
+2017-04-25 23:50:00,Port Charlotte,FL,Circle
+2017-04-25 23:45:00,Ponca City,OK,Circle
+2017-04-25 23:45:00,Plantation,FL,Cross
+2017-04-25 23:45:00,Apollo Beach,FL,Circle
+2017-04-25 23:45:00,Clearwater,FL,Light
+2017-04-25 23:45:00,Podgorica (Montenegro),,Sphere
+2017-04-25 23:00:00,Jupiter,FL,Unknown
+2017-04-25 23:00:00,Lexington,KY,Circle
+2017-04-25 22:45:00,Nanaimo (Canada),BC,Circle
+2017-04-25 22:30:00,Rigby,ID,Light
+2017-04-25 22:27:00,Nicassio,CA,Sphere
+2017-04-25 21:15:00,Vance AFB,OK,Triangle
+2017-04-25 21:00:00,Parsonsfield,ME,Light
+2017-04-25 20:40:00,Bradenton,FL,Light
+2017-04-25 18:30:00,Marietta,GA,Disk
+2017-04-25 01:47:00,Orlando,FL,Sphere
+2017-04-25 00:00:00,Dallas,TX,Triangle
+2017-04-24 21:55:00,Sykesville,MD,Disk
+2017-04-24 21:00:00,Dover,NH,Diamond
+2017-04-24 20:45:00,Roseville,MN,Other
+2017-04-24 12:00:00,Fenton,MO,Changing
+2017-04-24 00:00:00,Eau Claire,WI,
+2017-04-24 00:00:00,Clarksville,TN,
+2017-04-23 23:25:00,Huntington Beach,CA,Sphere
+2017-04-23 22:50:00,Ft. Myers,FL,Diamond
+2017-04-23 22:20:00,Iota,LA,Light
+2017-04-23 21:30:00,Orono,ME,Diamond
+2017-04-23 21:30:00,Chappell Hill,TX,Light
+2017-04-23 21:15:00,Las Vegas,NV,Light
+2017-04-23 20:15:00,Marysville,OH,Cigar
+2017-04-23 19:00:00,Birmingham,AL,Oval
+2017-04-23 10:35:00,Oshawa (Canada),ON,
+2017-04-23 05:30:00,Salt Point State Park,CA,Circle
+2017-04-23 01:05:00,Richmond (Canada),BC,Fireball
+2017-04-23 00:50:00,Napa,CA,Sphere
+2017-04-22 23:33:00,Selah,WA,Light
+2017-04-22 23:00:00,Lansing,MI,Triangle
+2017-04-22 22:00:00,Goshen,IN,Oval
+2017-04-22 21:34:00,Irmo,SC,Unknown
+2017-04-22 21:30:00,Surprise,AZ,Unknown
+2017-04-22 21:00:00,Bakersfield,CA,Light
+2017-04-22 20:40:00,Des Moines,IA,Light
+2017-04-22 20:08:00,Lake Forest,CA,Other
+2017-04-22 11:00:00,Oneco,CT,Oval
+2017-04-21 23:26:00,Burlington (Canada),ON,Sphere
+2017-04-21 23:00:00,Midwest city,OK,Fireball
+2017-04-21 22:23:00,Brandon,FL,Light
+2017-04-21 22:00:00,Thompson (Canada),MB,Light
+2017-04-21 22:00:00,Dillon,SC,Chevron
+2017-04-21 21:13:00,Sanra Rosa,CA,Triangle
+2017-04-21 21:13:00,Neenah,WI,Formation
+2017-04-21 21:04:00,McKinleyville,CA,Formation
+2017-04-21 21:00:00,Stevenson Ranch,CA,Unknown
+2017-04-21 14:45:00,Lynn,IN,Disk
+2017-04-21 13:00:00,Wanica (Surinam),,Circle
+2017-04-21 12:11:00,Hillsboro,OR,Other
+2017-04-21 03:09:00,Seattle,WA,Light
+2017-04-21 00:05:00,Hanging Rock,OH,Sphere
+2017-04-21 00:00:00,Olympia,WA,Fireball
+2017-04-20 00:00:00,Santa Rosa,CA,Unknown
+2017-04-20 22:35:00,Hartsville,SC,Fireball
+2017-04-20 22:00:00,Surfside Beach,SC,Light
+2017-04-20 21:30:00,Petaluma,CA,Light
+2017-04-20 21:00:00,Thibodaux,LA,Oval
+2017-04-20 20:07:00,Columbia,MO,Sphere
+2017-04-20 19:55:00,Columbia,MO,Sphere
+2017-04-20 14:15:00,Palmyra,NJ,Other
+2017-04-20 12:07:00,Daytona Beach,FL,Sphere
+2017-04-20 10:30:00,Spokane,WA,Circle
+2017-04-20 10:00:00,Vashon,WA,Circle
+2017-04-20 04:56:00,Bridgeview,IL,Light
+2017-04-20 00:10:00,Kennett Square,PA,Unknown
+2017-04-19 23:55:00,Newton,AL,Triangle
+2017-04-19 23:50:00,Newton,AL,Triangle
+2017-04-19 23:29:00,Denver,CO,Light
+2017-04-19 21:45:00,Cobourg (Canada),ON,Light
+2017-04-19 20:50:00,Garden City,SC,Sphere
+2017-04-19 20:50:00,North Myrtle Beach,SC,Light
+2017-04-19 20:30:00,Surfside Beach,SC,Circle
+2017-04-19 20:10:00,Chiba City (Japan),,Unknown
+2017-04-19 11:00:00,Benton,TN,Triangle
+2017-04-19 08:49:00,Gray,GA,
+2017-04-19 08:16:00,Cape Girardeau,MO,Sphere
+2017-04-19 02:53:00,Garden City,SC,Changing
+2017-04-19 00:40:00,Holiday Island,AR,Light
+2017-04-18 00:00:00,Omaha,NE,Circle
+2017-04-18 22:50:00,Long Beach,MS,Oval
+2017-04-18 22:20:00,Uniontown/Kent,OH,Changing
+2017-04-18 22:00:00,Warren,RI,Triangle
+2017-04-18 22:00:00,Willard,KY,Light
+2017-04-18 22:00:00,Warren,RI,Triangle
+2017-04-18 22:00:00,Smithfield,KY,Circle
+2017-04-18 22:00:00,Galena Park,TX,Light
+2017-04-18 21:45:00,Cottage Grove & Madison,WI,Triangle
+2017-04-18 21:32:00,Warminster,PA,Unknown
+2017-04-18 20:30:00,Albuquerque,NM,Cross
+2017-04-18 20:00:00,Los Angeles,CA,Formation
+2017-04-18 16:00:00,Bermuda/Florida coast (between),,Cone
+2017-04-18 14:30:00,New York City (upper West Side),NY,Teardrop
+2017-04-18 12:30:00,Les Cayes (Haiti),,Circle
+2017-04-18 12:00:00,Los Angeles,CA,Triangle
+2017-04-18 02:00:00,Louisville,KY,Light
+2017-04-18 01:00:00,Sherman Oaks,CA,Triangle
+2017-04-18 00:00:00,Columbia,SC,Unknown
+2017-04-17 23:15:00,Grant,MI,Formation
+2017-04-17 22:30:00,Slidell,LA,Circle
+2017-04-17 22:18:00,Rockville,MD,Circle
+2017-04-17 22:00:00,Sugarland,TX,Sphere
+2017-04-17 21:30:00,Ropar (Punjab)(India),,Other
+2017-04-17 21:30:00,Portsmouth,OH,Light
+2017-04-17 21:15:00,Ricetown,KY,Light
+2017-04-17 21:00:00,South Bend,IN,Sphere
+2017-04-17 20:50:00,Seymour,IN,Circle
+2017-04-17 19:28:00,Gilbert,AZ,Cigar
+2017-04-17 16:30:00,Dover,DE,Unknown
+2017-04-17 10:10:00,Anaheim,CA,Fireball
+2017-04-17 06:05:00,Vallejo,CA,Unknown
+2017-04-17 04:56:00,Jefferson,GA,Light
+2017-04-17 04:40:00,Sylvester,GA,Light
+2017-04-17 03:58:00,Jasper,AL,Flash
+2017-04-17 01:00:00,Marysville,WA,Triangle
+2017-04-17 00:20:00,Fort Lee,NJ,Changing
+2017-04-16 23:40:00,Ardsley,PA,Cigar
+2017-04-16 23:10:00,South Belot,WI,Fireball
+2017-04-16 22:30:00,Big Timber,MT,Other
+2017-04-16 22:04:00,Ricetown,KY,Flash
+2017-04-16 22:00:00,Loveland,CO,Egg
+2017-04-16 21:00:00,Las Vegas,NV,Unknown
+2017-04-16 21:00:00,Rock Island,WA,Fireball
+2017-04-16 21:00:00,Taylorsville,UT,Circle
+2017-04-16 20:33:00,Ronkonkoma,NY,Sphere
+2017-04-16 20:30:00,London (Enfield)(UK/England),,Circle
+2017-04-16 20:30:00,Portland,OR,Oval
+2017-04-16 20:00:00,Bolingbrook,IL,Formation
+2017-04-16 20:00:00,Oceanside,CA,Light
+2017-04-16 19:12:00,Los Angeles,CA,Other
+2017-04-16 17:45:00,Mookgophong (South Africa),,Triangle
+2017-04-16 10:22:00,Arundel,ME,Flash
+2017-04-16 07:15:00,Linden,NJ,Other
+2017-04-16 00:38:00,Honolulu,HI,Circle
+2017-04-15 23:58:00,Merrimack,NH,Light
+2017-04-15 22:30:00,Dickinson (headed toward Galveston),TX,Light
+2017-04-15 22:10:00,Eastaboga,AL,Light
+2017-04-15 21:30:00,Boise,ID,Triangle
+2017-04-15 21:30:00,Norman,OK,Light
+2017-04-15 20:30:00,Newport News,VA,Fireball
+2017-04-15 20:30:00,Willowdale,PA,Sphere
+2017-04-15 20:00:00,Dothan,AL,Light
+2017-04-15 20:00:00,Lawrenceville,GA,Triangle
+2017-04-15 18:09:00,Elk Grove,CA,
+2017-04-15 10:15:00,North Myrtle Beach,SC,Triangle
+2017-04-14 23:00:00,Phoenix,AZ,Diamond
+2017-04-14 23:00:00,Gordon,TX,Circle
+2017-04-14 22:50:00,Vancouver,WA,Circle
+2017-04-14 22:30:00,Monticello,IN,Light
+2017-04-14 22:20:00,Santa Maria,CA,Triangle
+2017-04-14 22:05:00,Woodsville,NH,Teardrop
+2017-04-14 22:00:00,Grant,AL,Light
+2017-04-14 22:00:00,Saint James,MO,Egg
+2017-04-14 21:50:00,Malibu,CA,Changing
+2017-04-14 21:00:00,Woodbury,NY,Diamond
+2017-04-14 20:41:00,Poland,ME,Unknown
+2017-04-14 20:28:00,Albuquerque,NM,Light
+2017-04-14 19:45:00,Clearwater,FL,Unknown
+2017-04-14 02:10:00,Irvine/Costa Mesa (between),CA,Circle
+2017-04-14 00:45:00,Jackson,OH,Circle
+2017-04-13 23:28:00,Sawgrass area,FL,Circle
+2017-04-13 23:23:00,Wichita,KS,Flash
+2017-04-13 22:30:00,Clermont,FL,Sphere
+2017-04-13 22:00:00,Great Barrington,MA,Light
+2017-04-13 21:30:00,Sister Bay,WI,Light
+2017-04-13 21:15:00,Savanagh,GA,Sphere
+2017-04-13 20:30:00,Monona,WI,Disk
+2017-04-13 20:30:00,Plymouth,MA,Fireball
+2017-04-13 18:20:00,Ronkonkoma,NY,Other
+2017-04-13 17:00:00,Sammamish,WA,Light
+2017-04-13 16:30:00,Mckee,,
+2017-04-13 15:15:00,Marysville,WA,Fireball
+2017-04-13 08:30:00,Des Moines,IA,Circle
+2017-04-13 06:45:00,Franklin,GA,Light
+2017-04-13 00:00:00,Phoenix,AZ,Cigar
+2017-04-12 23:00:00,Springfield,VT,Sphere
+2017-04-12 23:00:00,Chino,CA,Light
+2017-04-12 22:25:00,Creve Couer,MO,Diamond
+2017-04-12 22:00:00,Acworth,GA,Cross
+2017-04-12 22:00:00,Mount Pleasant,SC,Disk
+2017-04-12 22:00:00,Marietta,GA,Light
+2017-04-12 21:00:00,Frisco,TX,Triangle
+2017-04-12 21:00:00,Massapequa,NY,Circle
+2017-04-12 20:52:00,Surfside Beach,SC,Cigar
+2017-04-12 20:50:00,Norcross,GA,Light
+2017-04-12 20:45:00,Taylorsville,NC,Unknown
+2017-04-12 20:44:00,Pigeon Forge,TN,Circle
+2017-04-12 20:40:00,Beaufort,SC,Circle
+2017-04-12 20:40:00,Conway,SC,Light
+2017-04-12 20:15:00,Sylvester,GA,Flash
+2017-04-12 20:00:00,Asheboro,NC,Light
+2017-04-12 20:00:00,Murray,UT,Other
+2017-04-12 10:13:00,Rochelle,IL,Formation
+2017-04-12 04:00:00,Lincoln Park,NJ,Sphere
+2017-04-12 03:00:00,Luke Air Force Base,AZ,Chevron
+2017-04-12 01:00:00,Harrisville,PA,Other
+2017-04-11 23:25:00,Ricetown,KY,Light
+2017-04-11 23:15:00,Fayetteville,NC,Disk
+2017-04-11 22:30:00,Snow Camp,NC,Disk
+2017-04-11 22:00:00,Hartford,SD,Light
+2017-04-11 21:25:00,India (city not specified),,Sphere
+2017-04-11 21:07:00,Stem,NC,Formation
+2017-04-11 20:45:00,Chandler,AZ,Light
+2017-04-11 20:40:00,Clovis,CA,Light
+2017-04-11 20:30:00,Show Low,AZ,Diamond
+2017-04-11 20:30:00,Roanoke,VA,
+2017-04-11 20:24:00,New Orleans,LA,Flash
+2017-04-11 20:20:00,Hana,HI,Light
+2017-04-11 20:00:00,Statesville,NC,Rectangle
+2017-04-11 18:00:00,In-flight (military)(city not specified),SC,Diamond
+2017-04-11 00:20:00,Kitchener (Canada),ON,Cross
+2017-04-10 00:00:00,Phoenix,IL,Changing
+2017-04-10 23:30:00,County Durham (UK/England),,Triangle
+2017-04-10 23:00:00,Nashua,NH,Light
+2017-04-10 22:00:00,Calexico,CA,Formation
+2017-04-10 21:40:00,Davenport,WA,Light
+2017-04-10 21:30:00,Davenport,WA,Circle
+2017-04-10 21:15:00,Indio,CA,Circle
+2017-04-10 21:06:00,Mission Viejo,CA,Fireball
+2017-04-10 21:00:00,Brawley,CA,Light
+2017-04-10 21:00:00,Whittier,CA,Fireball
+2017-04-10 20:50:00,Austin,TX,Circle
+2017-04-10 20:45:00,Pacific Beach,CA,Fireball
+2017-04-10 19:15:00,South Kingstown,RI,Light
+2017-04-10 19:00:00,San Marcos,CA,Light
+2017-04-10 11:30:00,Wichita,KS,Disk
+2017-04-10 09:00:00,Colorado (southeast part),CO,Chevron
+2017-04-10 05:00:00,Malolos City (Philippines),,Sphere
+2017-04-10 01:00:00,Des Moines,IA,Light
+2017-04-09 23:00:00,Fontana,NC,Sphere
+2017-04-09 22:40:00,Live Oak,FL,Sphere
+2017-04-09 22:30:00,Clyde,NC,Oval
+2017-04-09 21:00:00,West Gardiner,ME,
+2017-04-09 17:15:00,Elk Grove,CA,Cylinder
+2017-04-09 14:05:00,Falcon,CO,Sphere
+2017-04-09 13:00:00,Loveland,CO,Sphere
+2017-04-09 06:18:00,Quincy,WA,Light
+2017-04-09 04:55:00,Philadelphia,PA,Light
+2017-04-09 02:30:00,Fishers,IN,Unknown
+2017-04-09 02:00:00,Albuquerque,NM,Circle
+2017-04-09 00:45:00,"Lawton (between Lawton and Duncan, hwy 7 west going east)",OK,Light
+2017-04-08 22:30:00,Tinley Park,IL,Circle
+2017-04-08 22:27:00,Raymond,NH,Triangle
+2017-04-08 22:00:00,Vineland,NJ,Cylinder
+2017-04-08 22:00:00,Providence,RI,Disk
+2017-04-08 21:50:00,St. Petersburg,FL,Sphere
+2017-04-08 21:10:00,St. Petersburg,FL,Light
+2017-04-08 21:00:00,Caracas (Venezuela),,Light
+2017-04-08 20:30:00,Sacramento,CA,Fireball
+2017-04-08 18:16:00,Caribbean Sea (at sea),,Changing
+2017-04-08 16:30:00,Georgetown,TX,Circle
+2017-04-08 15:36:00,Columbus,OH,Changing
+2017-04-08 09:51:00,Albany,GA,Unknown
+2017-04-07 22:32:00,Germantown,MD,Circle
+2017-04-07 22:30:00,Tougaloo,MS,Circle
+2017-04-07 22:25:00,Riverside,WA,Other
+2017-04-07 22:00:00,Exshaw (Canada),AB,Light
+2017-04-07 21:00:00,Davenport,FL,
+2017-04-07 20:52:00,Highland,UT,Light
+2017-04-07 20:00:00,Williams,AZ,Unknown
+2017-04-07 19:16:00,Paso Robles,CA,Light
+2017-04-07 19:00:00,De Pere,WI,Sphere
+2017-04-07 18:00:00,Catford (London)(UK/England),,Rectangle
+2017-04-07 11:50:00,Hammond,LA,Disk
+2017-04-07 09:25:00,Cooper City,FL,Cigar
+2017-04-07 05:50:00,New Iberia,LA,Sphere
+2017-04-07 02:37:00,Naples,FL,Disk
+2017-04-07 01:00:00,Williamstown,NJ,Circle
+2017-04-06 21:50:00,Corona,CA,Light
+2017-04-06 21:35:00,Jonesboro,GA,Formation
+2017-04-06 21:30:00,Little Falls,MN,Triangle
+2017-04-06 19:40:00,St. Louis,MO,Formation
+2017-04-06 19:00:00,Valley Center,CA,Disk
+2017-04-06 12:00:00,Kansas City,MO,Chevron
+2017-04-06 11:55:00,Anaheim,CA,Circle
+2017-04-06 09:00:00,Austin,TX,Rectangle
+2017-04-06 01:00:00,La Mirada,CA,Fireball
+2017-04-05 23:00:00,Memphis,TN,Circle
+2017-04-05 23:00:00,,MT,Fireball
+2017-04-05 23:00:00,Greater Atlanta- south,,Other
+2017-04-05 20:00:00,Lapine,AL,Rectangle
+2017-04-05 18:00:00,San Tan Valley,AZ,Sphere
+2017-04-05 17:30:00,Chesapeake,OH,Disk
+2017-04-05 08:00:00,Clinton,MD,Disk
+2017-04-05 05:10:00,Newport News,VA,Triangle
+2017-04-05 05:10:00,Gheen,MN,
+2017-04-05 04:08:00,New York City (Brooklyn),NY,Light
+2017-04-04 22:37:00,Fresno,CA,Triangle
+2017-04-04 21:30:00,Monroe,MI,Oval
+2017-04-04 21:20:00,Chicago,IL,Triangle
+2017-04-04 20:55:00,Brodnax,VA,Diamond
+2017-04-04 20:30:00,Culver City,CA,Circle
+2017-04-04 02:05:00,Virginia Beach,VA,Light
+2017-04-04 00:00:00,Manchester,IA,Triangle
+2017-04-03 23:30:00,Cedar Grove,WV,Unknown
+2017-04-03 08:00:00,Philadelphia,PA,Diamond
+2017-04-03 02:28:00,Wenatchee,WA,Disk
+2017-04-03 00:30:00,Portland,OR,Oval
+2017-04-02 22:40:00,Mesa,AZ,Light
+2017-04-02 22:00:00,Middletown,RI,Light
+2017-04-02 21:53:00,Rogers County,OK,Light
+2017-04-02 21:00:00,Tillsonburg (Canada),ON,Light
+2017-04-02 19:15:00,Bridgewater,NJ,Disk
+2017-04-02 18:30:00,Highland,CA,Fireball
+2017-04-02 16:55:00,Victoria (Canada),BC,Circle
+2017-04-02 15:51:00,Pioneertown (near),CA,Cigar
+2017-04-02 14:45:00,San Francisco,CA,Sphere
+2017-04-02 04:17:00,Columbus,OH,Other
+2017-04-02 03:05:00,Dunedin,FL,Flash
+2017-04-02 03:00:00,St. Petersburg,FL,Flash
+2017-04-02 01:10:00,St. Petersburg,FL,Sphere
+2017-04-02 01:00:00,Reno,NV,Rectangle
+2017-04-01 23:30:00,Frankenmuth,MI,Triangle
+2017-04-01 22:45:00,Harwinton,CT,Triangle
+2017-04-01 22:27:00,Rosemount,MN,Diamond
+2017-04-01 21:00:00,Conway,AR,Light
+2017-04-01 20:30:00,Snohomish,WA,Light
+2017-04-01 20:18:00,Riverside,CA,Light
+2017-04-01 19:15:00,Stockport (UK/England),,Sphere
+2017-04-01 18:00:00,St. Petersburg,FL,Sphere
+2017-04-01 12:40:00,Gainesville,FL,Sphere
+2017-04-01 03:00:00,Dunedin,FL,Light
+2017-04-01 01:10:00,Arlington Heights,IL,Light
+2017-04-01 01:10:00,Waukesha,WI,Sphere
+2017-03-31 22:30:00,North Myrtle Beach,SC,Triangle
+2017-03-31 20:25:00,Woodinvile,WA,Circle
+2017-03-31 19:13:00,New Panvel (India),,Light
+2017-03-31 19:00:00,Lawrence,KS,Light
+2017-03-31 02:26:00,Seal Beach,CA,Flash
+2017-03-30 20:10:00,Baltimore,MD,Light
+2017-03-30 19:30:00,Grand Rapids,MI,Light
+2017-03-30 03:30:00,Amherst,MA,Sphere
+2017-03-30 01:39:00,Granbury,TX,Triangle
+2017-03-30 01:00:00,Orleans,MA,Fireball
+2017-03-29 23:40:00,Indian Shores,FL,Light
+2017-03-29 23:30:00,Allendale,MI,Circle
+2017-03-29 23:30:00,Sevierville,TN,Unknown
+2017-03-29 22:00:00,Lockhart,TX,Other
+2017-03-29 21:00:00,Sonoma,CA,Formation
+2017-03-29 20:34:00,Hernandez,NM,Unknown
+2017-03-29 20:30:00,Largo,FL,Sphere
+2017-03-29 20:00:00,Orange,CA,Light
+2017-03-29 19:00:00,Canby,OR,Circle
+2017-03-29 14:29:00,Wrightwood,CA,Sphere
+2017-03-28 23:33:00,Wyoming,MI,Chevron
+2017-03-28 21:40:00,Boulevard,CA,Circle
+2017-03-28 20:50:00,Brighton,MI,Light
+2017-03-28 20:05:00,Crescent,WI,Light
+2017-03-28 19:15:00,Madison,WI,Sphere
+2017-03-28 06:15:00,Fleming Island,FL,Unknown
+2017-03-27 23:00:00,Oklahoma City,OK,Circle
+2017-03-27 21:45:00,Springfield,MO,Disk
+2017-03-27 20:30:00,Sarasota,FL,Light
+2017-03-27 20:30:00,Bartow,FL,Light
+2017-03-27 19:00:00,Shiprock,NM,Sphere
+2017-03-27 17:00:00,Oklahoma City,OK,Other
+2017-03-27 01:30:00,Golden,CO,Circle
+2017-03-26 20:15:00,Fort Lauderdale,FL,Fireball
+2017-03-26 19:45:00,Coachella Valley,CA,Light
+2017-03-26 12:24:00,Covina,CA,Circle
+2017-03-26 01:00:00,Pittsboro,NC,Triangle
+2017-03-26 00:58:00,Prescott Valley,AZ,Circle
+2017-03-25 23:45:00,Hamilton,OH,Formation
+2017-03-25 23:20:00,Davenport,FL,Circle
+2017-03-25 23:00:00,Orange Spring,FL,Circle
+2017-03-25 22:35:00,St. George,UT,Formation
+2017-03-25 22:15:00,Newport,RI,Circle
+2017-03-25 21:50:00,New York City (Queens),NY,Circle
+2017-03-25 01:00:00,Fallbrook,CA,
+2017-03-25 01:00:00,Exeter,ME,Triangle
+2017-03-24 23:30:00,Leduc (Canada),AB,Triangle
+2017-03-24 23:15:00,Merrimack,NH,
+2017-03-24 20:50:00,Englewood,FL,Other
+2017-03-24 16:14:00,Goodyear,AZ,Triangle
+2017-03-24 03:15:00,Orrington,ME,Light
+2017-03-23 20:45:00,Albuquerque,NM,Circle
+2017-03-23 20:30:00,Corrales,NM,Fireball
+2017-03-23 20:25:00,Bullhead City,AZ,Circle
+2017-03-23 20:15:00,Albuquerque,NM,Fireball
+2017-03-23 20:05:00,Fairborn,OH,Disk
+2017-03-23 20:00:00,Thomasville,NC,Light
+2017-03-23 19:30:00,Tempe,AZ,Circle
+2017-03-23 14:00:00,Danville,VA,Circle
+2017-03-23 10:02:00,Scarborough (Canada),ON,Other
+2017-03-23 07:50:00,Asheville,NC,Cigar
+2017-03-23 00:00:00,Nashville,TN,Disk
+2017-03-22 22:25:00,Frederick,MD,Formation
+2017-03-22 22:15:00,Dover,NH,Triangle
+2017-03-22 21:30:00,North Richland Hills,TX,Light
+2017-03-22 20:00:00,Sheboygan,WI,Fireball
+2017-03-22 19:30:00,Murfreesboro,TN,Other
+2017-03-22 19:02:00,Ilfeld,NM,Other
+2017-03-22 18:00:00,Mesa,AZ,Circle
+2017-03-22 12:00:00,,NY,Other
+2017-03-22 07:35:00,Raeford,NC,Unknown
+2017-03-22 01:00:00,Kansas City,MO,Formation
+2017-03-21 22:45:00,New Paltz,NY,Formation
+2017-03-21 21:30:00,Suffolk,VA,Circle
+2017-03-21 21:15:00,Brandon,FL,Triangle
+2017-03-21 21:14:00,Miramar,CA,Formation
+2017-03-21 21:00:00,Framingham,MA,Light
+2017-03-21 21:00:00,Altoona,AL,Triangle
+2017-03-21 20:42:00,Livonia,NY,Circle
+2017-03-21 20:20:00,Currie,NC,Formation
+2017-03-21 20:15:00,St. Louis,MO,Fireball
+2017-03-21 20:03:00,San Angelo,TX,Sphere
+2017-03-21 19:50:00,Southaven,MS,Fireball
+2017-03-21 19:00:00,New Orleans (80 mi. SE of; Gulf of Mexico),LA,Oval
+2017-03-21 17:30:00,Weston,FL,Flash
+2017-03-21 09:30:00,McRae,AR,Light
+2017-03-21 08:40:00,Plant City,FL,Circle
+2017-03-21 05:30:00,Woodstock (Canada),ON,Light
+2017-03-21 04:00:00,Athens,WV,Chevron
+2017-03-21 03:00:00,Groveland,CA,Unknown
+2017-03-20 23:00:00,Ajo,AZ,Triangle
+2017-03-20 22:30:00,Nambour (Australia),,Disk
+2017-03-20 22:30:00,Peyton,CO,Circle
+2017-03-20 22:30:00,Colorado Springs,CO,Fireball
+2017-03-20 22:19:00,Colorado Springs,CO,Fireball
+2017-03-20 22:10:00,Medford,OR,Circle
+2017-03-20 22:10:00,St. Augustine,FL,Triangle
+2017-03-20 21:30:00,Cranston,RI,Light
+2017-03-20 20:27:00,Rolla,MO,Oval
+2017-03-20 20:27:00,Rolla,MO,Oval
+2017-03-20 20:15:00,Chandler,AZ,Fireball
+2017-03-20 19:00:00,Gemmrigheim (Germany),,Chevron
+2017-03-20 18:15:00,Houston,TX,Cylinder
+2017-03-20 06:15:00,Forest,VA,Rectangle
+2017-03-20 04:47:00,Dallas,TX,Oval
+2017-03-19 23:50:00,Berlin,CT,Light
+2017-03-19 23:00:00,Willard,KY,Formation
+2017-03-19 22:50:00,Chattanooga,TN,Light
+2017-03-19 22:15:00,Tempe,AZ,Light
+2017-03-19 22:00:00,Eagle Pass,TX,Other
+2017-03-19 21:15:00,Greenville,SC,Formation
+2017-03-19 21:00:00,Carroll,IA,Triangle
+2017-03-19 20:45:00,Van Nuys,CA,Unknown
+2017-03-19 20:30:00,Metairie,LA,Light
+2017-03-19 20:00:00,Carthage,NC,Light
+2017-03-19 18:45:00,Phoenix,AZ,Changing
+2017-03-19 03:00:00,Forest Grove,OR,Light
+2017-03-19 01:00:00,Kullamaa (Estonia),,Fireball
+2017-03-19 00:30:00,Nunley,AR,Other
+2017-03-18 23:00:00,Palm Springs,CA,Formation
+2017-03-18 23:00:00,Cleveland,TN,Light
+2017-03-18 22:58:00,Green Bay,WI,Oval
+2017-03-18 21:45:00,Monticello,GA,Other
+2017-03-18 21:45:00,Washington,LA,Teardrop
+2017-03-18 21:30:00,Elkton,MD,Sphere
+2017-03-18 21:00:00,Arkansas City,KS,Light
+2017-03-18 20:59:00,Austin,TX,Triangle
+2017-03-18 20:35:00,Dallas,TX,Sphere
+2017-03-18 20:35:00,Pompano Beach,FL,Sphere
+2017-03-18 20:30:00,Parrish,FL,Circle
+2017-03-18 20:30:00,Naples,FL,Sphere
+2017-03-18 20:22:00,West Palm Beach,FL,Light
+2017-03-18 20:15:00,Sebastian,FL,Circle
+2017-03-18 20:15:00,Jacksonville,FL,Circle
+2017-03-18 19:30:00,Lantana,FL,Circle
+2017-03-18 19:30:00,Actworth,GA,Rectangle
+2017-03-18 19:30:00,Lantana,FL,Unknown
+2017-03-18 19:00:00,Port Saint Lucie,FL,Sphere
+2017-03-17 23:00:00,Bartlett,MO,Other
+2017-03-17 22:35:00,Wasilla,AK,Unknown
+2017-03-17 22:00:00,Grandview,TX,Light
+2017-03-17 22:00:00,Kansas City,KS,Light
+2017-03-17 21:45:00,Kansas City,KS,Light
+2017-03-17 21:30:00,Mandeville,LA,Sphere
+2017-03-17 21:00:00,Franklin,TN,Light
+2017-03-17 21:00:00,Montague,NJ,Circle
+2017-03-17 20:00:00,Portsmouth,NH,Triangle
+2017-03-17 19:26:00,Tacna (Peru),,Circle
+2017-03-17 18:20:00,Riverside,CA,Disk
+2017-03-17 06:00:00,Putney,GA,Triangle
+2017-03-17 02:00:00,Rockville,MD,Changing
+2017-03-16 23:30:00,Ruso,ND,Light
+2017-03-16 23:10:00,Gull Lake,MI,Light
+2017-03-16 21:41:00,Salem,OR,Flash
+2017-03-16 21:00:00,Auburn,WA,Light
+2017-03-16 20:15:00,Tempe,AZ,Other
+2017-03-16 20:15:00,tempe,AZ,Other
+2017-03-16 20:12:00,Tempe,AZ,Other
+2017-03-16 19:35:00,Chandler,AZ,Triangle
+2017-03-16 17:00:00,Las Cruces,NM,Fireball
+2017-03-16 06:35:00,Dallas (Lakewood area),TX,Flash
+2017-03-16 00:00:00,Springfield,MO,Disk
+2017-03-15 23:25:00,Sand Rock,AL,Circle
+2017-03-15 22:30:00,Florence,KY,Circle
+2017-03-15 21:34:00,Ireland (city not specified),,Triangle
+2017-03-15 21:00:00,St. Augustine,FL,Triangle
+2017-03-15 20:50:00,San Diego,CA,Light
+2017-03-15 20:35:00,Madison,WI,Other
+2017-03-15 20:21:00,San Diego,CA,Formation
+2017-03-15 20:00:00,Bayville,NJ,Unknown
+2017-03-15 20:00:00,Grand Isle,LA,Light
+2017-03-15 19:55:00,San Diego,CA,Circle
+2017-03-15 17:50:00,Chesnee,SC,Light
+2017-03-15 17:50:00,Phoenix,AZ,Oval
+2017-03-15 13:28:00,St. Robert,MO,Light
+2017-03-15 09:51:00,Huntsville,AL,Disk
+2017-03-15 07:15:00,Phoenix,AZ,Circle
+2017-03-15 06:00:00,Wellington,FL,Circle
+2017-03-15 03:00:00,Volcano,CA,Light
+2017-03-15 02:00:00,Cherry Springs Community,TX,Rectangle
+2017-03-14 23:50:00,Aliso Viejo,CA,Light
+2017-03-14 23:30:00,Anchorage,AK,Other
+2017-03-14 23:30:00,Anchorage,AK,Diamond
+2017-03-14 23:00:00,Charlotte,NC,Disk
+2017-03-14 22:33:00,Madison,WI,Light
+2017-03-14 22:10:00,Lava Hot Springs,ID,Other
+2017-03-14 20:24:00,Chandler,AZ,Sphere
+2017-03-14 20:00:00,Taylorsville,UT,Diamond
+2017-03-14 18:30:00,Denver,CO,Circle
+2017-03-14 06:45:00,Phoenix,AZ,Other
+2017-03-14 05:00:00,Goodyear,AZ,Triangle
+2017-03-14 00:00:00,Tampa,FL,Light
+2017-03-13 22:00:00,Valley Center,CA,Circle
+2017-03-13 21:26:00,Mesa,AZ,Sphere
+2017-03-13 21:00:00,Glendale,AZ,Light
+2017-03-13 20:50:00,Redlands,CA,Oval
+2017-03-13 14:00:00,Las Vegas,NV,Egg
+2017-03-12 23:00:00,Colton,OR,Other
+2017-03-12 22:15:00,Wyandotte,MI,Light
+2017-03-12 20:43:00,Gloucester,VA,Light
+2017-03-12 20:40:00,Mount Airy,NC,Sphere
+2017-03-12 20:01:00,Sanford,NC,Circle
+2017-03-12 20:00:00,Long Beach,CA,Flash
+2017-03-12 20:00:00,Redlands,CA,Sphere
+2017-03-12 19:45:00,Hot Springs National Park,AR,Formation
+2017-03-12 19:45:00,Tacoma,WA,Circle
+2017-03-12 19:30:00,Paw Paw,MI,Light
+2017-03-12 18:20:00,Boaz,AL,Unknown
+2017-03-12 18:00:00,Chapmanville,WV,Light
+2017-03-12 08:10:00,Elk Grove,CA,Sphere
+2017-03-12 08:10:00,Elk Grove,CA,Sphere
+2017-03-12 03:15:00,Columbus,MS,Sphere
+2017-03-12 00:00:00,Detroit,MI,Flash
+2017-03-11 23:15:00,Atlanta,GA,Light
+2017-03-11 22:00:00,Lewis center,OH,Fireball
+2017-03-11 21:41:00,Virginia Beach,VA,Fireball
+2017-03-11 21:31:00,Ottawa (Canada),ON,Oval
+2017-03-11 21:00:00,Camp Hill,PA,Unknown
+2017-03-11 20:55:00,Casa Grande,AZ,Circle
+2017-03-11 20:00:00,Concord,NC,Light
+2017-03-11 19:50:00,Oley,PA,Circle
+2017-03-11 18:00:00,Lavallette,NJ,Other
+2017-03-11 18:00:00,Lavallette,NJ,Other
+2017-03-11 06:00:00,Mt. Airy,NC,Cigar
+2017-03-11 05:00:00,Wausau,WI,Cigar
+2017-03-10 23:00:00,Frisco,TX,Oval
+2017-03-10 22:00:00,Yarmouth (Nova Scotia)(Canada),NS,Rectangle
+2017-03-10 22:00:00,Belpit,KS,Other
+2017-03-10 21:45:00,Corona,CA,Light
+2017-03-10 20:45:00,Grand Terrace,CA,Unknown
+2017-03-10 20:30:00,Clarksville,TN,Cigar
+2017-03-10 20:30:00,Clarksville,TN,Other
+2017-03-10 20:00:00,Memphis,TN,
+2017-03-10 19:15:00,Des Moines,WA,Light
+2017-03-10 08:00:00,Alexandria,IN,Circle
+2017-03-10 05:55:00,Battle Creek,MI,Light
+2017-03-10 00:30:00,Newton,KS,Triangle
+2017-03-09 00:00:00,Bellevue,WA,Unknown
+2017-03-09 00:00:00,Dartmouth (Canada),NS,Light
+2017-03-09 21:25:00,Phoenix,AZ,Formation
+2017-03-09 21:00:00,Valley Center,CA,Circle
+2017-03-09 20:49:00,Jackson,MS,Cigar
+2017-03-09 20:30:00,St. Louis,MO,Light
+2017-03-09 20:00:00,Port Saint Lucie,FL,Triangle
+2017-03-09 19:45:00,LaFayette,IL,Light
+2017-03-09 19:37:00,Las Vegas,NV,Light
+2017-03-09 19:00:00,Chawton (near) (Hampshire),,Light
+2017-03-09 18:35:00,Prince Albert (Canada),SK,Other
+2017-03-09 15:30:00,Clinton,MD,Other
+2017-03-09 15:15:00,Leonardtown,MD,Circle
+2017-03-09 05:55:00,Saint Joseph,MO,Sphere
+2017-03-09 03:12:00,Vestavia,AL,Oval
+2017-03-09 01:00:00,Melbourne,FL,Light
+2017-03-08 23:30:00,Lockwood,MO,Triangle
+2017-03-08 21:30:00,Belvidere,NJ,Disk
+2017-03-08 20:00:00,Piney Flats,TN,Circle
+2017-03-08 19:45:00,Gulf Shores,AL,Unknown
+2017-03-08 18:30:00,Riverdale,NJ,Circle
+2017-03-08 16:54:00,Ypsilanti,MI,Circle
+2017-03-08 02:00:00,Phoenix,AZ,Unknown
+2017-03-08 00:30:00,Gray Court,SC,Light
+2017-03-08 00:30:00,Gray Court,SC,Light
+2017-03-07 23:00:00,Princeton,IN,Light
+2017-03-07 22:00:00,Adel,IA,Light
+2017-03-07 21:20:00,Philadelphia,PA,Chevron
+2017-03-07 20:30:00,San Angelo,TX,Triangle
+2017-03-07 20:10:00,Summerville,SC,Sphere
+2017-03-07 20:00:00,Lexington,KY,Oval
+2017-03-07 19:00:00,Fort Worth,TX,Light
+2017-03-07 13:00:00,Surry,VA,Disk
+2017-03-07 12:00:00,Jamestown,CA,Fireball
+2017-03-06 22:00:00,Elkton,MD,Rectangle
+2017-03-06 22:00:00,Wenatchee,WA,Light
+2017-03-06 21:48:00,Meridian,MS,Diamond
+2017-03-06 19:58:00,Modesto,CA,Circle
+2017-03-06 19:50:00,Coalville (UK/England),,Light
+2017-03-06 19:11:00,Ft. Lauderdale,FL,Circle
+2017-03-06 18:45:00,Walker,LA,Triangle
+2017-03-06 13:00:00,Tralee (Ireland),,Cigar
+2017-03-06 12:15:00,Lisbon,ME,Fireball
+2017-03-06 04:15:00,Milford,CT,Disk
+2017-03-05 23:05:00,Nashua,NH,Circle
+2017-03-05 22:28:00,Brookline,NH,Light
+2017-03-05 20:29:00,Anchorage,AK,Circle
+2017-03-05 20:00:00,Holbrook,NY,Teardrop
+2017-03-05 14:00:00,Anola (Canada),MB,Sphere
+2017-03-05 13:30:00,Honeybrook,PA,Circle
+2017-03-05 10:00:00,San Fernando,CA,
+2017-03-05 03:04:00,Upper Freehold Township,NJ,Other
+2017-03-04 23:00:00,Pittsburgh,PA,Light
+2017-03-04 22:31:00,Powell,TN,Circle
+2017-03-04 21:48:00,Sioux Falls,SD,Sphere
+2017-03-04 21:00:00,Absarokee,MT,Other
+2017-03-04 20:30:00,Amelia Island,FL,Triangle
+2017-03-04 20:28:00,Basingstoke (Hampshire)(UK/England),,Flash
+2017-03-04 20:10:00,Donaldsonville,GA,Light
+2017-03-04 19:40:00,Lynchburg,VA,Diamond
+2017-03-04 19:20:00,Plymouth,NH,Diamond
+2017-03-04 19:00:00,Kaukauna,WI,Light
+2017-03-04 18:42:00,Lynchburg,VA,Fireball
+2017-03-04 18:30:00,Monson,ME,
+2017-03-04 15:30:00,Kitchener (Canada),ON,Light
+2017-03-04 15:00:00,Cleveland,OH,Cylinder
+2017-03-04 05:45:00,Ashland,NE,Diamond
+2017-03-04 04:00:00,Soldotna,AK,Unknown
+2017-03-04 01:00:00,Englewood,CO,Disk
+2017-03-03 21:38:00,Fairbanks,AK,Sphere
+2017-03-03 21:00:00,Temecula,CA,Triangle
+2017-03-03 20:28:00,Blacksburg,VA,Light
+2017-03-03 20:10:00,Mayaguez (Puerto Rico),,Fireball
+2017-03-03 19:36:00,Yuma,AZ,Oval
+2017-03-03 19:30:00,Longmont,CO,Light
+2017-03-03 19:25:00,Wilmington,DE,Fireball
+2017-03-03 19:05:00,Ridgecrest,CA,Unknown
+2017-03-03 19:05:00,Ridgecrest,CA,Unknown
+2017-03-03 17:30:00,Wetumpka,AL,Sphere
+2017-03-03 08:15:00,Anchorage,AK,Fireball
+2017-03-03 06:10:00,Index,WA,Formation
+2017-03-03 00:00:00,Fort Myers,FL,Light
+2017-03-02 22:30:00,Lake Conroe,TX,Light
+2017-03-02 22:00:00,Waco,TX,Triangle
+2017-03-02 21:45:00,Floodwood,MN,Oval
+2017-03-02 20:00:00,Springfield,MO,Triangle
+2017-03-02 11:20:00,Burbank,,Sphere
+2017-03-02 05:00:00,Fayetteville,TN,Triangle
+2017-03-01 22:00:00,Santa Monica,CA,Light
+2017-03-01 20:21:00,Cloquet,MN,Triangle
+2017-03-01 20:00:00,St. Clair,MI,Light
+2017-03-01 20:00:00,Dodge City,KS,Circle
+2017-03-01 19:30:00,Kaukauna,WI,Light
+2017-03-01 18:45:00,Hamilton,OH,Circle
+2017-03-01 18:30:00,Ingram,TX,Flash
+2017-03-01 13:35:00,Islip Terrace,NY,Rectangle
+2017-03-01 02:20:00,Mountain City,TN,Triangle
+2017-02-28 21:37:00,Corona,CA,Unknown
+2017-02-28 19:45:00,Phoenix,AZ,Fireball
+2017-02-28 18:57:00,Atascocta,TX,Unknown
+2017-02-28 18:30:00,Miami,FL,Triangle
+2017-02-28 12:00:00,Jamestown,CA,Fireball
+2017-02-28 04:50:00,Vacaville,CA,Sphere
+2017-02-28 00:30:00,Thorndale,PA,
+2017-02-27 19:30:00,Billings,MT,Light
+2017-02-27 19:30:00,Fountain,CO,Cross
+2017-02-27 19:00:00,Plains,KS,Light
+2017-02-27 18:40:00,Crescent Valley,NV,Unknown
+2017-02-27 18:11:00,Folsom,CA,Sphere
+2017-02-27 01:30:00,Tuscaloosa,AL,Unknown
+2017-02-27 01:21:00,Cairo (Egypt),,Light
+2017-02-27 00:30:00,Grand Rapids,MI,Changing
+2017-02-26 23:00:00,Tuscaloosa,AL,Light
+2017-02-26 22:51:00,Wasilla,AK,Oval
+2017-02-26 22:00:00,Decatur,GA,Circle
+2017-02-26 21:15:00,Shannon (New Zealand),,Light
+2017-02-26 21:15:00,Manistee,MI,Unknown
+2017-02-26 21:00:00,Decatur,GA,Circle
+2017-02-26 20:37:00,Greensboro,NC,Unknown
+2017-02-26 20:30:00,Easton,PA,Fireball
+2017-02-26 20:30:00,Sand Point,AK,Light
+2017-02-26 20:25:00,Lutz,FL,Circle
+2017-02-26 20:23:00,Prescott,AZ,Light
+2017-02-26 20:06:00,Cody,WY,Fireball
+2017-02-26 20:00:00,Sacramento,CA,Other
+2017-02-26 19:00:00,Newark,DE,Oval
+2017-02-26 18:00:00,Carpentersville,IL,Flash
+2017-02-26 18:00:00,Dubuque,IA,Triangle
+2017-02-26 15:30:00,Superior,WI,Egg
+2017-02-26 13:00:00,LaVergne,TN,Light
+2017-02-26 07:00:00,Dade City,FL,Diamond
+2017-02-26 05:50:00,Freeport,NY,Oval
+2017-02-26 05:20:00,Bend,OR,Light
+2017-02-26 04:10:00,Calmar (Canada),AB,Other
+2017-02-25 23:27:00,Chicago,IL,Light
+2017-02-25 22:10:00,Sandy,UT,Circle
+2017-02-25 21:30:00,Albany (near),OR,Rectangle
+2017-02-25 21:00:00,Glendive,MT,Light
+2017-02-25 21:00:00,Canton,GA,Cigar
+2017-02-25 21:00:00,las vegas,NV,Circle
+2017-02-25 21:00:00,Watson Lake (Canada),YT,Light
+2017-02-25 19:35:00,Orlando,FL,Formation
+2017-02-25 19:15:00,Highland,KS,Light
+2017-02-25 19:00:00,Florence,KY,Sphere
+2017-02-25 18:45:00,Longmont,CO,Oval
+2017-02-25 18:15:00,Long Beach,CA,Oval
+2017-02-25 14:16:00,Mesa,AZ,Sphere
+2017-02-25 14:00:00,Delray Beach,FL,Unknown
+2017-02-25 13:15:00,Broomfield,CO,Teardrop
+2017-02-25 10:00:00,Elk Grove,CA,Circle
+2017-02-25 04:45:00,Fall Creek,OR,Sphere
+2017-02-24 23:42:00,Beacon,NY,Light
+2017-02-24 23:00:00,Omaha,NE,Rectangle
+2017-02-24 22:40:00,winter harbor,ME,Light
+2017-02-24 22:15:00,Nampa,ID,Circle
+2017-02-24 21:00:00,Bridgeport,CT,Circle
+2017-02-24 21:00:00,Bridgeport,CT,Circle
+2017-02-24 21:00:00,Wapwallopen,PA,
+2017-02-24 20:45:00,Port Saint Lucie,FL,Circle
+2017-02-24 20:30:00,Payson,AZ,Other
+2017-02-24 20:30:00,Ravenna,OH,Oval
+2017-02-24 20:30:00,Santa Fe,NM,Fireball
+2017-02-24 20:00:00,Brockton,MA,Circle
+2017-02-24 20:00:00,Bennington,VT,Light
+2017-02-24 20:00:00,Uniontown,PA,Circle
+2017-02-24 19:40:00,Buckeye/Litchfield Park,AZ,Circle
+2017-02-24 19:10:00,Arnhem (Gelderland)(Netherlands),,Light
+2017-02-24 03:00:00,Dallas,TX,Light
+2017-02-24 03:00:00,Dallas,TX,Light
+2017-02-23 00:00:00,Fort Lauderdale,FL,Fireball
+2017-02-23 22:00:00,Chattanooga,TN,Sphere
+2017-02-23 21:00:00,Hiram,GA,Light
+2017-02-23 21:00:00,Hamilton,MS,Sphere
+2017-02-23 20:30:00,West Valley City,UT,Sphere
+2017-02-23 19:50:00,Rosendale,NY,Sphere
+2017-02-23 19:40:00,Greenfield Twp,PA,Circle
+2017-02-23 19:30:00,Reading,PA,Unknown
+2017-02-23 18:43:00,Philadelphia,PA,Changing
+2017-02-23 18:00:00,Eaton,CO,Circle
+2017-02-23 17:30:00,Clarksville,TN,Disk
+2017-02-23 15:10:00,Albuquerque,NM,Flash
+2017-02-23 13:00:00,Bensalem,PA,Other
+2017-02-23 12:00:00,Abingdon,MD,Sphere
+2017-02-23 06:00:00,Acworth,GA,Cylinder
+2017-02-23 05:45:00,Brook Park,OH,Flash
+2017-02-23 00:00:00,Syracuse,NY,Other
+2017-02-22 21:50:00,Auburn,AL,Unknown
+2017-02-22 21:47:00,Tucson,AZ,Changing
+2017-02-22 21:09:00,Harrisburg,PA,Other
+2017-02-22 21:00:00,Whitefish,MT,Light
+2017-02-22 21:00:00,Fountain Valley,CA,Unknown
+2017-02-22 21:00:00,Tamaqua,PA,Cylinder
+2017-02-22 20:50:00,Bowen Island (Canada),BC,Egg
+2017-02-22 20:27:00,Beaufort,SC,Cross
+2017-02-22 19:45:00,Casco,ME,Light
+2017-02-22 19:30:00,Fremont,NJ,Light
+2017-02-22 19:30:00,Swanville,ME,Light
+2017-02-22 19:19:00,Dothan,AL,Circle
+2017-02-22 19:00:00,Waukesha,WI,Oval
+2017-02-22 19:00:00,Windsor,VT,Circle
+2017-02-22 18:30:00,Fullerton,CA,Diamond
+2017-02-21 22:45:00,Marietta,OH,Fireball
+2017-02-21 21:00:00,Nampa,ID,Disk
+2017-02-21 20:00:00,Phoenix,AZ,Light
+2017-02-21 19:45:00,Sebastopol,CA,
+2017-02-21 19:00:00,Simpsonville,SC,Oval
+2017-02-21 19:00:00,Nederland,CO,Fireball
+2017-02-21 11:40:00,Sun City West,AZ,Other
+2017-02-21 11:15:00,Peoria,AZ,Formation
+2017-02-21 07:00:00,Basehor,KS,Light
+2017-02-21 06:15:00,University Place,WA,
+2017-02-21 01:00:00,Newton,IA,Triangle
+2017-02-20 22:00:00,San Pablo,CA,
+2017-02-20 21:30:00,Roswell,GA,Oval
+2017-02-20 21:00:00,Stacy,MN,Circle
+2017-02-20 21:00:00,Tucson,AZ,Light
+2017-02-20 20:50:00,Porter township,PA,Light
+2017-02-20 20:11:00,Chicago,IL,Light
+2017-02-20 20:10:00,Parachute,CO,Oval
+2017-02-20 20:00:00,Butte,MT,Triangle
+2017-02-20 19:20:00,Merritt Island,FL,Circle
+2017-02-20 18:40:00,East Haven,CT,Triangle
+2017-02-20 12:45:00,Hiwassee,,Egg
+2017-02-20 01:32:00,Illogan (UK/England; southwest region),,Other
+2017-02-19 23:05:00,Cuyahoga Falls,OH,Light
+2017-02-19 23:00:00,Lindenwold,NJ,Changing
+2017-02-19 22:50:00,Toledo,OH,Other
+2017-02-19 22:30:00,Atchison,KS,Unknown
+2017-02-19 22:04:00,Memphis,TN,Flash
+2017-02-19 22:00:00,South Dennis,MA,Sphere
+2017-02-19 21:05:00,Midland (Canada),ON,Light
+2017-02-19 20:58:00,Hays,MT,Oval
+2017-02-19 20:30:00,Grandville,MI,Cone
+2017-02-19 20:00:00,Queensbury,NY,Circle
+2017-02-19 19:50:00,Tacoma,WA,Triangle
+2017-02-19 19:30:00,Bushkill Township,PA,Light
+2017-02-19 19:30:00,Siler City,NC,Sphere
+2017-02-19 17:59:00,Waimea Canyon,HI,Unknown
+2017-02-19 17:45:00,Mananlapan,NJ,Light
+2017-02-19 14:00:00,Shrewsbury,MA,Light
+2017-02-19 12:15:00,Penfield,NY,Circle
+2017-02-19 11:00:00,St. Petersburg,FL,Sphere
+2017-02-19 09:05:00,Mt. Summit,IN,Unknown
+2017-02-19 07:30:00,New York City (Brooklyn),NY,Light
+2017-02-19 05:15:00,Elk Mountain,WY,Unknown
+2017-02-19 04:12:00,Londonderry,NH,Triangle
+2017-02-19 04:00:00,St. Paul,MN,Circle
+2017-02-18 23:00:00,Board Camp,AR,Unknown
+2017-02-18 22:55:00,Germantown,MD,Other
+2017-02-18 22:30:00,Sawyer,MI,Formation
+2017-02-18 22:00:00,Apple valley,MN,Circle
+2017-02-18 21:47:00,West bend,WI,Diamond
+2017-02-18 21:00:00,Sioux Falls,SD,Sphere
+2017-02-18 20:45:00,Buford,WY,Circle
+2017-02-18 20:45:00,Buford,WY,Circle
+2017-02-18 20:15:00,Skokie,IL,Circle
+2017-02-18 19:10:00,Colorado Springs,CO,Other
+2017-02-18 19:00:00,Chanhassen (east of),MN,Circle
+2017-02-18 19:00:00,Glendale Heights,IL,Light
+2017-02-18 18:00:00,Glendale Heights,IL,Light
+2017-02-18 18:00:00,Hartford,ME,Light
+2017-02-18 17:00:00,Massena,NY,Cylinder
+2017-02-18 06:00:00,MckeesRocksr,PA,Disk
+2017-02-18 04:00:00,NSL ((North Salt Lake??)),UT,Oval
+2017-02-18 03:00:00,Raymore,MO,Flash
+2017-02-18 00:00:00,Gettysburg,PA,Circle
+2017-02-17 23:50:00,Tacoma,WA,Formation
+2017-02-17 23:27:00,Millvale,PA,Fireball
+2017-02-17 23:20:00,Billings,MT,Circle
+2017-02-17 23:00:00,Osceola,IN,Unknown
+2017-02-17 22:15:00,Moon Township/clinton,PA,Fireball
+2017-02-17 20:40:00,Irving,TX,Light
+2017-02-17 20:30:00,Holstein,IA,Light
+2017-02-17 20:07:00,Fairbanks,AK,Circle
+2017-02-17 20:03:00,Troy,MI,Cylinder
+2017-02-17 19:00:00,"Panama city beach,east",FL,Fireball
+2017-02-17 18:45:00,Longmont,CO,Oval
+2017-02-17 18:00:00,Edmonton (Canada),AB,Light
+2017-02-17 15:20:00,Florence,SC,Oval
+2017-02-17 08:30:00,Bryan,TX,Oval
+2017-02-16 23:30:00,Johnson City,NY,Oval
+2017-02-16 22:30:00,Holland,MI,Flash
+2017-02-16 21:00:00,Longview,TX,Light
+2017-02-16 20:45:00,Indio,CA,Sphere
+2017-02-16 20:00:00,Milwaukee,WI,Circle
+2017-02-16 20:00:00,Social Circle,GA,Triangle
+2017-02-16 20:00:00,Milwaukee,WI,Unknown
+2017-02-16 19:48:00,Bartlesville,OK,Formation
+2017-02-16 19:00:00,Santa Fe/Eldorado,NM,Circle
+2017-02-16 19:00:00,Mt. Orab,OH,Fireball
+2017-02-16 18:30:00,Grifton,NC,Other
+2017-02-16 18:00:00,Costa Mesa,CA,Circle
+2017-02-16 17:09:00,Winterville,NC,Sphere
+2017-02-16 16:30:00,Paducah,KY,Cigar
+2017-02-16 16:30:00,Grifton,NC,Sphere
+2017-02-16 16:00:00,Wichita,KS,Other
+2017-02-16 10:30:00,Camarillo,CA,Light
+2017-02-16 07:18:00,Maycomb,AL,Disk
+2017-02-16 07:00:00,Yuma,AZ,Light
+2017-02-16 07:00:00,Caledonia (Village of)),WI,Changing
+2017-02-16 06:15:00,Bushkill,PA,Light
+2017-02-15 23:15:00,The Villages,FL,Light
+2017-02-15 22:00:00,National City,CA,Light
+2017-02-15 21:12:00,Hopulikit,GA,Light
+2017-02-15 21:10:00,Prescott Valley,AZ,Light
+2017-02-15 21:00:00,Wichita,KS,Other
+2017-02-15 20:30:00,Lava Hot Springs,ID,Light
+2017-02-15 20:20:00,Annestown (Republic of Ireland),,Diamond
+2017-02-15 20:00:00,Austin,NV,Triangle
+2017-02-15 20:00:00,Shawnee,KS,Triangle
+2017-02-15 20:00:00,Shawnee,KS,Triangle
+2017-02-15 20:00:00,Jersey City,NJ,Sphere
+2017-02-15 19:50:00,Harper,TX,Light
+2017-02-15 19:50:00,Chillicothe,OH,Unknown
+2017-02-15 19:50:00,Chillicothe,OH,Triangle
+2017-02-15 19:50:00,Harper,TX,Light
+2017-02-15 19:40:00,Bethel,OH,Light
+2017-02-15 19:25:00,Aberdeen,NC,Light
+2017-02-15 19:00:00,Wichita,KS,Circle
+2017-02-15 18:48:00,Cape Girardeau,MO,Light
+2017-02-15 09:50:00,Algood,TN,Egg
+2017-02-15 05:35:00,Ashtabula,OH,
+2017-02-15 00:00:00,Strathmore (Canada),AB,Unknown
+2017-02-14 23:00:00,Goodyear,AZ,Other
+2017-02-14 22:00:00,Redlands,CA,Changing
+2017-02-14 21:00:00,Torrance,CA,Light
+2017-02-14 20:00:00,Claremont,CA,Other
+2017-02-14 19:35:00,Bethlehem,PA,Fireball
+2017-02-14 19:30:00,Vancouver,WA,Triangle
+2017-02-14 16:15:00,Baghdad (Iraq),,Teardrop
+2017-02-14 10:33:00,Elorza (Venezuela),,Disk
+2017-02-14 06:32:00,Los Angeles,CA,Light
+2017-02-14 06:20:00,Auburn,NY,Other
+2017-02-14 06:20:00,Turlock,CA,Light
+2017-02-14 06:20:00,Pioneer,CA,Sphere
+2017-02-14 06:20:00,Roseville,CA,Light
+2017-02-14 06:19:00,West Lake Village,CA,Circle
+2017-02-14 06:15:00,Hollister,CA,Light
+2017-02-14 03:30:00,Stafford,VA,Light
+2017-02-14 01:15:00,Kelso,WA,Light
+2017-02-14 01:00:00,Lexington,KY,Oval
+2017-02-14 00:00:00,Goodyear,AZ,Other
+2017-02-13 23:00:00,Morton,IL,Circle
+2017-02-13 22:00:00,Alcester,SD,Sphere
+2017-02-13 22:00:00,Franklin,NH,Triangle
+2017-02-13 21:30:00,West Union,IA,Chevron
+2017-02-13 21:30:00,Concord - Penecook,NH,Fireball
+2017-02-13 21:15:00,Highlands,NC,Sphere
+2017-02-13 21:15:00,New York City,NY,Light
+2017-02-13 21:10:00,Wall,NJ,Fireball
+2017-02-13 21:05:00,Franklin,MA,Sphere
+2017-02-13 21:00:00,Ludlow,KY,Sphere
+2017-02-13 20:00:00,Capitola,CA,Sphere
+2017-02-13 20:00:00,Watsonville,CA,Sphere
+2017-02-13 20:00:00,Medina,OH,Rectangle
+2017-02-13 19:30:00,Mt. Orab,OH,Light
+2017-02-13 18:40:00,Brick,NJ,Light
+2017-02-13 15:09:00,Santa Ana,CA,
+2017-02-13 01:08:00,Detroit,MI,Triangle
+2017-02-13 00:00:00,Kingsport,TN,Unknown
+2017-02-12 22:53:00,Richland,WA,Circle
+2017-02-12 22:15:00,Apache Junction,AZ,Light
+2017-02-12 21:30:00,Mokuliea,HI,Changing
+2017-02-12 21:22:00,Abingdon,VA,Unknown
+2017-02-12 20:30:00,Peoria,AZ,Circle
+2017-02-12 20:30:00,Tigard,OR,Other
+2017-02-12 20:00:00,Winter Haven,FL,Circle
+2017-02-12 19:00:00,Wausau,WI,Light
+2017-02-12 19:00:00,Novelty,OH,Diamond
+2017-02-12 19:00:00,King,NC,Sphere
+2017-02-12 18:45:00,Saint Paul,MN,Circle
+2017-02-12 18:37:00,Orland Park,IL,Unknown
+2017-02-12 15:45:00,Torrance,CA,Light
+2017-02-12 15:00:00,Valencia,CA,Triangle
+2017-02-12 08:30:00,Winter Springs,FL,Cigar
+2017-02-12 02:45:00,Lithia,FL,Fireball
+2017-02-12 02:03:00,Fredericton (Canada),NB,Changing
+2017-02-12 01:30:00,Brook Park,MN,Other
+2017-02-12 01:25:00,Rancho Palos Verdes,CA,Triangle
+2017-02-11 21:15:00,Wausau,WI,Circle
+2017-02-11 21:00:00,Fuquay Varina,NC,Circle
+2017-02-11 20:00:00,Stevensville,MT,Light
+2017-02-11 19:38:00,Sarasota,FL,Circle
+2017-02-11 19:09:00,Amite,LA,Circle
+2017-02-11 19:09:00,Amite,LA,Circle
+2017-02-11 19:00:00,Saint Petersburg,FL,Light
+2017-02-11 19:00:00,Saint Petersburg,FL,Light
+2017-02-11 18:35:00,Bozeman,MT,Other
+2017-02-11 18:31:00,Lawrence,KS,Triangle
+2017-02-11 17:20:00,Summerdale,AL,Light
+2017-02-11 15:00:00,Pasadena,MD,Triangle
+2017-02-11 14:45:00,Ames,IA,Triangle
+2017-02-11 01:00:00,Port Orchard,WA,Formation
+2017-02-10 20:18:00,Ft. Lauderdale,FL,Sphere
+2017-02-10 19:15:00,Hurdle Mills,NC,Unknown
+2017-02-10 19:05:00,Duluth,GA,Cylinder
+2017-02-10 19:00:00,Hollywood,CA,Changing
+2017-02-10 18:35:00,New Kent,VA,Light
+2017-02-10 18:00:00,Long Beach,NY,
+2017-02-10 15:00:00,Eagan,MN,Unknown
+2017-02-10 10:15:00,Howell,MI,Fireball
+2017-02-09 22:15:00,Norton,VA,Unknown
+2017-02-09 20:30:00,Adel,IA,Light
+2017-02-09 20:00:00,Johnson City,TN,Circle
+2017-02-09 18:00:00,Bridgeton,MO,Formation
+2017-02-09 10:40:00,Red Bank,NJ,Flash
+2017-02-09 05:15:00,Valdosta,GA,Circle
+2017-02-09 03:20:00,Fredericksburg,VA,Disk
+2017-02-09 00:00:00,Columbia,CT,Fireball
+2017-02-09 00:00:00,Youngstown,OH,Fireball
+2017-02-08 22:30:00,Tucson,AZ,Unknown
+2017-02-08 21:30:00,Kirkland,IL,Light
+2017-02-08 21:30:00,Avondale,AZ,Light
+2017-02-08 20:45:00,Naples,FL,Light
+2017-02-08 20:40:00,North Myrtle Beach,SC,Light
+2017-02-08 20:35:00,Espanola,NM,Sphere
+2017-02-08 20:35:00,Espanola,NM,Sphere
+2017-02-08 17:00:00,Kingfield,ME,
+2017-02-08 16:00:00,Pinion Hills,CA,Chevron
+2017-02-08 06:00:00,Lloydminster (Canada),AB,Fireball
+2017-02-08 05:30:00,Liberty Hill,TX,Oval
+2017-02-08 03:00:00,Tallahassee,FL,Changing
+2017-02-07 23:15:00,Land O'Lakes,FL,Light
+2017-02-07 21:47:00,Bay St. Louis,MS,Oval
+2017-02-07 21:30:00,Nampa,ID,Triangle
+2017-02-07 21:30:00,Tucson,AZ,Other
+2017-02-07 21:29:00,Melba,ID,Oval
+2017-02-07 20:30:00,Stockbridge,GA,Diamond
+2017-02-07 20:00:00,Port Orchard,WA,Cone
+2017-02-07 19:45:00,Port Orchard,WA,Light
+2017-02-07 19:20:00,Macon,GA,Other
+2017-02-07 19:20:00,Macon,GA,Other
+2017-02-07 13:00:00,Sao Paulo (Brasil),,Cigar
+2017-02-07 11:15:00,Huntington,WV,Circle
+2017-02-06 22:50:00,Arnold,PA,Unknown
+2017-02-06 22:30:00,Albuquerque,NM,Disk
+2017-02-06 21:00:00,St. Petersburg,FL,Other
+2017-02-06 20:30:00,Delhi (India),,Diamond
+2017-02-06 20:15:00,Salisbury,MD,Other
+2017-02-06 18:09:00,"Panama City Beach, gulf",FL,Cigar
+2017-02-06 18:00:00,Portland,OR,Light
+2017-02-06 04:22:00,Port Orchard,WA,Unknown
+2017-02-06 02:35:00,Whitehall,MI,Flash
+2017-02-06 02:30:00,Minneapolis,MN,Light
+2017-02-06 02:30:00,Reynoldsburg,OH,
+2017-02-06 02:00:00,Millmont,PA,Light
+2017-02-06 01:15:00,Oak Lawn,IL,Fireball
+2017-02-06 00:13:00,Redway,CA,Flash
+2017-02-06 00:10:00,Lancaster,PA,Sphere
+2017-02-05 23:25:00,Athens,MI,Triangle
+2017-02-05 23:23:00,Puyallup,,
+2017-02-05 22:30:00,Rivera Maya,NM,Light
+2017-02-05 22:05:00,Chicago,IL,Circle
+2017-02-05 21:48:00,Carmine,TX,Sphere
+2017-02-05 21:30:00,Village of Caledonia,WI,Changing
+2017-02-05 21:10:00,Saint John (Canada),NB,Other
+2017-02-05 21:00:00,Clinton,TN,Circle
+2017-02-05 19:00:00,Bend,OR,Formation
+2017-02-05 19:00:00,Manalapan,NJ,Changing
+2017-02-05 19:00:00,Santee,CA,Circle
+2017-02-05 18:30:00,Clarksville,TN,Oval
+2017-02-05 12:00:00,Madison,WI,Circle
+2017-02-05 01:35:00,Sahuarita,AZ,Triangle
+2017-02-04 20:30:00,Miramar,FL,Cylinder
+2017-02-04 17:53:00,Queen Creek,AZ,Changing
+2017-02-04 17:00:00,Marshall,MN,Sphere
+2017-02-04 17:00:00,Somerville,MA,Other
+2017-02-04 15:50:00,Cape May Court House,NJ,Light
+2017-02-04 03:24:00,Rancho Palos Verdes,CA,Light
+2017-02-03 22:58:00,,UT,Circle
+2017-02-03 21:35:00,Lake Worth,FL,Circle
+2017-02-03 21:30:00,Walker,LA,Other
+2017-02-03 21:00:00,Hutto,TX,Formation
+2017-02-03 20:33:00,Sarasota,FL,Circle
+2017-02-03 20:30:00,Louisville,KY,Circle
+2017-02-03 20:00:00,Phoenix,AZ,Light
+2017-02-03 20:00:00,Gambrills,MD,Light
+2017-02-03 19:00:00,Flagler Beach,FL,Triangle
+2017-02-03 18:44:00,Flagler,FL,Triangle
+2017-02-03 18:35:00,Flagler Beach,FL,Triangle
+2017-02-03 17:30:00,Webster,WI,Light
+2017-02-03 10:23:00,St. Charles,MO,Other
+2017-02-03 00:00:00,Indianapolis,IN,Disk
+2017-02-02 22:00:00,Howell,NJ,Triangle
+2017-02-02 20:00:00,Mesa,AZ,Light
+2017-02-02 19:00:00,Kailua,HI,Light
+2017-02-02 18:30:00,Mobile,AL,Fireball
+2017-02-02 12:45:00,Buffalo,NY,Light
+2017-02-02 01:35:00,Harrington,WA,Oval
+2017-02-01 00:00:00,Eureka,MO,Disk
+2017-02-01 23:43:00,Williamsville,NY,Light
+2017-02-01 23:00:00,Dawsonville,GA,Circle
+2017-02-01 22:50:00,Tempe,AZ,Light
+2017-02-01 22:15:00,Fort Leonard Wood,MO,Disk
+2017-02-01 21:02:00,Hope,ID,Unknown
+2017-02-01 20:00:00,Angola,NY,Light
+2017-02-01 20:00:00,Arvada,CO,Formation
+2017-02-01 19:40:00,Azusa,CA,Changing
+2017-02-01 18:30:00,Jacksonville,FL,Other
+2017-02-01 18:25:00,West Seattle,WA,Unknown
+2017-02-01 17:46:00,New London,CT,Chevron
+2017-02-01 17:30:00,Abington,MA,Sphere
+2017-02-01 15:00:00,Helena,AR,Light
+2017-02-01 12:00:00,not sure,AZ,Oval
+2017-02-01 09:12:00,Los Angeles/Sherman Oaks,CA,Light
+2017-02-01 06:00:00,Chicago,IL,Light
+2017-02-01 05:05:00,Dubuque,IA,Disk
+2017-01-31 23:45:00,Richlands,NC,Other
+2017-01-31 23:00:00,Maricopa,AZ,Light
+2017-01-31 22:15:00,Albany,OR,Sphere
+2017-01-31 21:00:00,Charlottesville,VA,Other
+2017-01-31 18:40:00,Mechanicsburg,PA,Light
+2017-01-31 06:00:00,Duxbury,MA,Unknown
+2017-01-31 04:00:00,Strafford,MO,Rectangle
+2017-01-30 21:50:00,Travelers Rest,SC,Chevron
+2017-01-30 20:15:00,Oviedo,FL,Circle
+2017-01-30 18:45:00,Katy,TX,Fireball
+2017-01-30 07:00:00,Catonsville,MD,Changing
+2017-01-30 06:13:00,Fort Chafee,AR,Flash
+2017-01-30 02:30:00,Somersworth,NH,Light
+2017-01-29 23:00:00,Ft. Lauderdale,FL,Fireball
+2017-01-29 22:30:00,Conyers,GA,Light
+2017-01-29 21:00:00,Layton,UT,Other
+2017-01-29 20:15:00,Hurricane,UT,Light
+2017-01-29 20:00:00,Powell,TN,Sphere
+2017-01-29 19:35:00,Bountiful,UT,Light
+2017-01-29 19:30:00,Saint Petersburg,FL,Sphere
+2017-01-29 19:15:00,Walden,NY,Formation
+2017-01-29 19:00:00,Cohasset,MN,Oval
+2017-01-29 18:47:00,Atlanta,GA,Light
+2017-01-29 18:40:00,Merrimack,NH,Light
+2017-01-29 18:00:00,Clio,AL,Light
+2017-01-29 15:17:00,Phoenix,AZ,Sphere
+2017-01-29 15:00:00,Albuquerque,NM,Other
+2017-01-29 14:10:00,Oceanside,CA,Circle
+2017-01-29 10:34:00,Studio City,CA,Light
+2017-01-29 03:30:00,Auburn,WA,Oval
+2017-01-29 03:00:00,Tewksbury,MA,Unknown
+2017-01-28 23:54:00,Tucson,AZ,Circle
+2017-01-28 23:30:00,Trinity,NC,Teardrop
+2017-01-28 23:30:00,Greenville,NC,Circle
+2017-01-28 23:00:00,Canberra (Australia),,Flash
+2017-01-28 23:00:00,Grover,FL,Disk
+2017-01-28 22:30:00,Boca Raton,FL,Light
+2017-01-28 21:00:00,Conway,SC,Light
+2017-01-28 20:50:00,Sahuarita,AZ,Formation
+2017-01-28 20:29:00,Chardon,OH,Light
+2017-01-28 20:20:00,Chandler,AZ,Light
+2017-01-28 19:00:00,Portland,OR,
+2017-01-28 18:50:00,Ft. Lauderdale,FL,Fireball
+2017-01-28 18:30:00,Londonderry/Hudson,NH,Disk
+2017-01-28 18:30:00,Scottsdale,AZ,Triangle
+2017-01-28 17:15:00,Waunakee,WI,Unknown
+2017-01-28 09:15:00,Cumming,GA,Rectangle
+2017-01-28 05:00:00,Porterville,CA,Circle
+2017-01-28 03:54:00,Reno,NV,Unknown
+2017-01-28 00:10:00,Jenks,OK,Circle
+2017-01-27 22:45:00,Mays Landing,NJ,Teardrop
+2017-01-27 22:00:00,Ragley,LA,Cross
+2017-01-27 22:00:00,Elk City,,Light
+2017-01-27 21:00:00,Berkeley Heights,NJ,Changing
+2017-01-27 20:40:00,Pennington,NJ,Flash
+2017-01-27 20:00:00,St. George,UT,Formation
+2017-01-27 20:00:00,Russellville,AR,Light
+2017-01-27 19:38:00,Spencer,OK,Changing
+2017-01-27 19:15:00,Wendell,NC,Light
+2017-01-27 17:30:00,Farmington/New Durham,NH,Circle
+2017-01-27 16:45:00,Las Cruces,NM,Formation
+2017-01-27 13:15:00,Portland,OR,Cylinder
+2017-01-27 07:00:00,Potomac,MD,Light
+2017-01-27 02:45:00,Selma,TX,Fireball
+2017-01-27 01:30:00,New York City (Brooklyn),NY,Fireball
+2017-01-26 22:35:00,Hillsborough,NC,Other
+2017-01-26 21:30:00,Encinitas,CA,Fireball
+2017-01-26 20:00:00,Georgetown,SC,Flash
+2017-01-26 20:00:00,Georgetown,SC,Circle
+2017-01-26 20:00:00,Hickory,NC,Light
+2017-01-26 19:00:00,Tampa (general area),FL,Oval
+2017-01-26 19:00:00,Phenix City,AL,Unknown
+2017-01-26 18:54:00,Towson,MD,Cigar
+2017-01-26 18:50:00,Leesburg,VA,Fireball
+2017-01-26 18:30:00,Henrico,VA,Chevron
+2017-01-26 18:00:00,New York City (Brooklyn),NY,Fireball
+2017-01-26 18:00:00,Kenner,LA,Light
+2017-01-26 18:00:00,New York City (Brooklyn),NY,Light
+2017-01-26 16:30:00,Leominster,MA,Unknown
+2017-01-26 13:00:00,Atlanta,GA,Light
+2017-01-26 12:40:00,Greensboro,NC,Other
+2017-01-25 22:45:00,Hernando,FL,Light
+2017-01-25 22:45:00,Hernando,FL,Light
+2017-01-25 22:15:00,Liberty,IN,Triangle
+2017-01-25 20:45:00,San Antonio,TX,Light
+2017-01-25 20:00:00,Desert Hot Springs,CA,Sphere
+2017-01-25 20:00:00,Germantown,MD,Rectangle
+2017-01-25 19:25:00,Compton,CA,Light
+2017-01-25 19:05:00,Lakehills,TX,Formation
+2017-01-25 19:00:00,San Diego,CA,Circle
+2017-01-25 19:00:00,Yuma,AZ,Light
+2017-01-25 18:30:00,Greensboro,NC,Formation
+2017-01-25 18:00:00,Midlothian,VA,Light
+2017-01-25 17:45:00,Sidney,ME,Light
+2017-01-25 16:45:00,Belfast,ME,Light
+2017-01-25 03:00:00,Newport,TX,Circle
+2017-01-24 18:30:00,Minneapolis/Bryn Mawr/ Theodore Wirth Golf Course area,MN,Flash
+2017-01-24 06:00:00,Jacksonville,AR,Light
+2017-01-23 20:30:00,Steelville,MO,Light
+2017-01-23 19:30:00,North Myrtle Beach,SC,Formation
+2017-01-23 19:00:00,Los Lunas,NM,Light
+2017-01-23 19:00:00,Hays,KS,Unknown
+2017-01-23 18:00:00,Lacey,WA,Circle
+2017-01-23 06:43:00,Seattle,WA,Sphere
+2017-01-23 03:00:00,Los Angeles,CA,Disk
+2017-01-23 02:45:00,Hillsboro,OR,Flash
+2017-01-23 01:00:00,Winnipeg (Canada),MB,Unknown
+2017-01-23 00:12:00,Salinas,CA,Light
+2017-01-23 00:04:00,Yachats,OR,Circle
+2017-01-23 00:00:00,Gila,NM,Sphere
+2017-01-22 19:25:00,San Antonio,FL,Cigar
+2017-01-22 19:00:00,Rosamond,CA,Circle
+2017-01-22 02:44:00,Cinnaminson,NJ,Chevron
+2017-01-21 20:30:00,Roswell,NM,Light
+2017-01-21 20:30:00,Gilbert,AZ,Light
+2017-01-21 20:00:00,Senoia,GA,Light
+2017-01-21 19:00:00,Holland,OH,Circle
+2017-01-21 18:58:00,Saint Augustine,FL,Light
+2017-01-21 18:40:00,Woodbridge,VA,Oval
+2017-01-21 18:40:00,Holly Hill,FL,Sphere
+2017-01-21 05:00:00,Tulsa,OK,Unknown
+2017-01-21 04:00:00,Plantation,FL,Unknown
+2017-01-21 02:00:00,Guilford,CT,Circle
+2017-01-20 20:19:00,Cocoa,FL,Circle
+2017-01-20 20:15:00,Orlando,FL,Sphere
+2017-01-20 19:30:00,Deland,FL,Fireball
+2017-01-20 14:00:00,Fayetteville,NC,Sphere
+2017-01-20 05:45:00,Long Beach,MS,Light
+2017-01-19 22:00:00,Fort Lauderdale,FL,Light
+2017-01-19 21:25:00,Franklinton,LA,Triangle
+2017-01-19 20:45:00,Summerfield,FL,Light
+2017-01-19 19:00:00,Skillman,NJ,Formation
+2017-01-19 18:05:00,Lincoln,NM,Fireball
+2017-01-19 18:00:00,Walnut Creek,CA,Circle
+2017-01-19 06:10:00,Long Beach,CA,Fireball
+2017-01-19 02:28:00,Minneapolis,MN,Cigar
+2017-01-18 23:30:00,Fort Collins,CO,Chevron
+2017-01-18 22:30:00,Chicago,IL,Triangle
+2017-01-18 21:50:00,Truro (Nova Scotia)(Canada),NS,Triangle
+2017-01-18 21:00:00,Sumter,SC,Triangle
+2017-01-18 20:28:00,Brandon,SD,Other
+2017-01-18 19:45:00,Crystal River,FL,Light
+2017-01-18 18:53:00,River Falls,WI,Fireball
+2017-01-18 17:00:00,Wilson,NY,Circle
+2017-01-18 01:00:00,New Market,MD,Unknown
+2017-01-17 21:00:00,Deltona,FL,Light
+2017-01-17 20:42:00,Concord,NC,Light
+2017-01-17 20:39:00,Randall,MN,Light
+2017-01-17 19:48:00,Omaha,NE,Fireball
+2017-01-17 19:20:00,St. George,UT,Circle
+2017-01-17 17:26:00,Oak Harbor,WA,Circle
+2017-01-17 16:00:00,Yucca Valley,CA,Disk
+2017-01-17 09:53:00,Warner,NH,Light
+2017-01-17 04:40:00,Takaka/Golden Bay (New Zealand),,Light
+2017-01-16 19:00:00,Oxford,MS,Circle
+2017-01-16 19:00:00,Morgan,UT,Light
+2017-01-16 18:41:00,New Paltz,NY,Triangle
+2017-01-16 18:30:00,Las Vegas,NV,Rectangle
+2017-01-16 18:15:00,Ozark,MO,Other
+2017-01-16 17:45:00,Baltimore,MD,Light
+2017-01-15 22:00:00,San Diego,CA,Fireball
+2017-01-15 20:53:00,Phoenix,AZ,Flash
+2017-01-15 19:00:00,Powder Springs,GA,Formation
+2017-01-15 19:00:00,Elk River,MN,Oval
+2017-01-15 17:45:00,Bridgewater,NJ,Unknown
+2017-01-15 03:00:00,Rome,GA,Changing
+2017-01-15 01:00:00,Oak Park,GA,Changing
+2017-01-14 23:03:00,Chino Hills,CA,Light
+2017-01-14 23:00:00,Carrizo,NM,Triangle
+2017-01-14 23:00:00,Flamborough (UK/England),,Light
+2017-01-14 21:18:00,Hudson,FL,Sphere
+2017-01-14 20:45:00,Fort Lauderdale,FL,Circle
+2017-01-14 20:35:00,Edneyville,NC,Sphere
+2017-01-14 19:38:00,Hillsboro,OR,Light
+2017-01-14 19:30:00,Grand Rapids,MI,Light
+2017-01-14 19:00:00,Lake Charles,LA,Formation
+2017-01-14 18:55:00,Greensboro,NC,Unknown
+2017-01-14 18:00:00,St. Clair,MI,Triangle
+2017-01-14 18:00:00,Santa Rosa,CA,Circle
+2017-01-14 17:51:00,Daytona Beach,FL,Fireball
+2017-01-14 17:00:00,Melbourne,FL,Light
+2017-01-14 14:00:00,Seattle,WA,Rectangle
+2017-01-14 13:00:00,Yerington,NV,Circle
+2017-01-14 06:35:00,Olympia,WA,Triangle
+2017-01-13 22:30:00,Reynolds,GA,Sphere
+2017-01-13 21:40:00,Dedham,MA,Light
+2017-01-13 21:30:00,Hilton Head Island,SC,Sphere
+2017-01-13 20:45:00,Santa Rosa,CA,Formation
+2017-01-13 20:25:00,Santa Rosa,CA,Formation
+2017-01-13 19:50:00,Milford,DE,Triangle
+2017-01-13 19:50:00,San Rafael,NM,Triangle
+2017-01-13 19:35:00,Bloomingburg,NY,Circle
+2017-01-13 19:25:00,West Palm Beach,FL,Triangle
+2017-01-13 12:32:00,Sandy,UT,Other
+2017-01-13 06:15:00,Rumford,RI,Light
+2017-01-13 03:00:00,Asheboro,NC,Formation
+2017-01-13 01:25:00,Calgary (Canada),AB,Unknown
+2017-01-13 01:00:00,Newark,NJ,Other
+2017-01-13 00:10:00,Uhland,TX,Light
+2017-01-12 21:35:00,Albuquerque,NM,Fireball
+2017-01-12 21:00:00,Holiday,OH,
+2017-01-12 20:55:00,Fremont,WI,Unknown
+2017-01-12 20:00:00,Troy,NC,Cylinder
+2017-01-12 19:30:00,Tarpon Springs,FL,Triangle
+2017-01-12 19:30:00,Ponce Inlet,FL,Changing
+2017-01-12 18:45:00,New York City (Brooklyn),NY,Cigar
+2017-01-12 08:40:00,Myrtle Beach,SC,Light
+2017-01-12 06:00:00,Conroe,TX,
+2017-01-11 23:45:00,Midvale,UT,Flash
+2017-01-11 21:00:00,Harleyville,SC,Light
+2017-01-11 21:00:00,Franklinton,NC,Other
+2017-01-11 20:45:00,Castle Rock,CO,Sphere
+2017-01-11 20:05:00,Shelton,WA,Fireball
+2017-01-11 18:40:00,Hays (5 miles east of; on I-70),KS,Other
+2017-01-11 18:22:00,Hinesville,GA,Disk
+2017-01-11 17:40:00,Chester,NY,Oval
+2017-01-11 17:01:00,Amherst,MA,Unknown
+2017-01-11 08:30:00,West Newbury,MA,Disk
+2017-01-11 06:30:00,Madison,MS,Unknown
+2017-01-10 22:00:00,,,
+2017-01-10 21:40:00,Hemingway,SC,Egg
+2017-01-10 19:30:00,Itanhaem (Brazil),,Other
+2017-01-10 19:30:00,North Port,FL,Sphere
+2017-01-10 18:45:00,Hillsboro,MO,Changing
+2017-01-10 06:02:00,Magdalena,NM,Formation
+2017-01-10 06:00:00,Mountainair,NM,Formation
+2017-01-10 03:45:00,Sahaurita,AZ,Light
+2017-01-09 23:00:00,Orlando,FL,Circle
+2017-01-09 20:50:00,Holiday,FL,Triangle
+2017-01-09 19:30:00,Roanoke,VA,Other
+2017-01-09 19:15:00,Chandler,AZ,Sphere
+2017-01-09 18:00:00,Gouldsboro,PA,Triangle
+2017-01-09 07:05:00,Issaquah,WA,Triangle
+2017-01-09 05:05:00,Zephyrhills,FL,Circle
+2017-01-09 04:10:00,Gresham,OR,
+2017-01-09 03:12:00,Birmingham,AL,Unknown
+2017-01-09 03:02:00,Birmingham,AL,Changing
+2017-01-08 21:58:00,Palm Coast,FL,Oval
+2017-01-08 21:10:00,Valrico,FL,Changing
+2017-01-08 19:15:00,Bealeton,VA,Other
+2017-01-08 19:00:00,Wabasha,MN,Triangle
+2017-01-08 17:30:00,Frankfort,IL,Formation
+2017-01-08 17:30:00,Highland,CA,Light
+2017-01-08 06:30:00,Southfield,MI,Light
+2017-01-08 06:20:00,Waterford,MI,Cone
+2017-01-08 03:30:00,Macfarland,WI,Sphere
+2017-01-08 03:00:00,Golden,CO,Unknown
+2017-01-08 02:28:00,Perth (Australia),,Triangle
+2017-01-08 02:18:00,Ball Ground,GA,Light
+2017-01-07 23:20:00,Sutherlin,OR,Fireball
+2017-01-07 22:00:00,Poteet,TX,Sphere
+2017-01-07 21:50:00,Conception Bay South (Canada),NF,Fireball
+2017-01-07 21:30:00,Newcastle,DE,Teardrop
+2017-01-07 21:15:00,Hardyston Township,NJ,Unknown
+2017-01-07 21:00:00,Shepherd,MI,Circle
+2017-01-07 20:15:00,Antelope Valley,CA,Formation
+2017-01-07 20:10:00,New Berlin,WI,Light
+2017-01-07 20:00:00,Centerview,OK,Sphere
+2017-01-07 19:30:00,Nashville,TN,Fireball
+2017-01-07 19:30:00,Las Vegas,NV,Sphere
+2017-01-07 19:00:00,Sparta,WI,Circle
+2017-01-07 19:00:00,Denver,CO,Light
+2017-01-07 18:15:00,Hendersonville,NC,Light
+2017-01-06 23:00:00,Bellingham,WA,Triangle
+2017-01-06 22:30:00,Coon Rapids,MN,Fireball
+2017-01-06 20:00:00,Loudon,TN,Oval
+2017-01-06 19:15:00,Merced,CA,Light
+2017-01-06 19:05:00,Kalama,WA,Circle
+2017-01-06 19:00:00,Langley,WA,Circle
+2017-01-06 19:00:00,San Anselmo,CA,Formation
+2017-01-06 18:24:00,Tigard,OR,Circle
+2017-01-06 17:30:00,Austin,TX,Formation
+2017-01-05 22:15:00,Sandy,UT,Fireball
+2017-01-05 20:00:00,District Heights,MD,Formation
+2017-01-05 06:35:00,Rochester,NY,Formation
+2017-01-04 21:34:00,Parkland,WA,Circle
+2017-01-04 19:20:00,Port Angeles,WA,Light
+2017-01-04 17:00:00,West Deptford,NJ,Other
+2017-01-04 13:00:00,Davenport,CA,Formation
+2017-01-03 05:19:00,University Place,WA,Chevron
+2017-01-02 23:50:00,McMurray,PA,Flash
+2017-01-02 21:30:00,La Serena (Chile),,Disk
+2017-01-02 20:00:00,Corona,CA,Fireball
+2017-01-02 17:30:00,Dickinson,TX,Formation
+2017-01-02 00:00:00,Thousand Oaks,CA,Triangle
+2017-01-01 00:00:00,Halethorpe,MD,Unknown
+2017-01-01 22:55:00,"Portland, OR/Vancouver, WA",OR,Circle
+2017-01-01 21:00:00,East Orange,NJ,Flash
+2017-01-01 20:45:00,San Antonio,TX,Light
+2017-01-01 19:45:00,Brampton (Canada),ON,Chevron
+2017-01-01 19:31:00,Decatur,MI,Light
+2017-01-01 19:05:00,Owings Mills,MD,Circle
+2017-01-01 19:00:00,Bear,DE,Light
+2017-01-01 18:55:00,Perradeniya (Sri Lanka),,Sphere
+2017-01-01 18:15:00,Coronado,CA,Light
+2017-01-01 17:45:00,Rumford,RI,Other
+2017-01-01 14:02:00,Oshawa (Canada),ON,Cigar
+2017-01-01 13:50:00,Colorado Springs,CO,Sphere
+2017-01-01 12:30:00,New York,NY,Light
+2017-01-01 12:05:00,Boise,ID,Circle
+2017-01-01 02:30:00,Galt,CA,Circle
+2017-01-01 02:30:00,Galt,CA,Circle
+2017-01-01 01:15:00,Cody,WY,Fireball
+2017-01-01 01:00:00,Placida,FL,Cigar
+2017-01-01 00:30:00,San Antonio,TX,Fireball
+2017-01-01 00:30:00,Pbg,FL,Fireball
+2017-01-01 00:20:00,San Tan Valley,AZ,Fireball
+2017-01-01 00:19:00,Seminole,FL,Circle
+2017-01-01 00:15:00,Hope Mills,NC,Light
+2017-01-01 00:15:00,Longmont,CO,Circle
+2017-01-01 00:10:00,Casselberry,FL,Sphere
+2017-01-01 00:10:00,Boise,ID,Light
+2017-01-01 00:10:00,Anchorage,AK,Formation
+2017-01-01 00:07:00,Jacksonville,FL,Light
+2017-01-01 00:05:00,Rancho Cordova,CA,Egg
+2017-01-01 00:01:00,San Jose,CA,Triangle
+2017-01-01 00:00:00,Lahore (Pakistan),,Cone
+2017-01-01 00:00:00,Indianapolis,IN,Fireball
